@@ -1,55 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <GroupName>RustyChainGroup</GroupName>
+  <GroupName>Grupo de Cadena Oxidada</GroupName>
   <Character ID="Jikan">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">You’re on your own.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">You aren’t planning to wimp out already, are ya?</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">If we don’t get this job done, Kurokumo Clan’s gonna chop off all our heads…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">Estás por tu cuenta.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">No estás planeando flaquear ya, ¿o sí?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Si no acabamos este trabajo, el clan Kurokumo va a cortar todas nuestras cabezas…</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">We aren’t gonna need help from the Blade Lineage at this rate, eh?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">No vamos a necesitar ayuda del Linaje de Espadas a este paso, ¿eh?</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">This can’t be… Those bastards… must’ve cheated…</BattleDialog>
+      <BattleDialog ID="DEATH_0">No puede ser… Esos bastardos… deben de haber hecho trampa…</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH">
-      <BattleDialog ID="COLLEAGUE_DEATH_0">Shit… Why did the boss send that wuss with me?</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_1">This is why I don’t like cowards…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Mierda… ¿Por qué habrá enviado el jefe a ese gallina conmigo?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Es por esto que no me gustan los cobardes…</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">Won’t you do your job? I’m puttin’ in all the work here.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1">Now DIE!!! Haha! What a softskull.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_2">So much for a Plague…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">¿No harás tu trabajo? Estoy haciendo todo el esfuerzo aquí.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">¡¡¡Ahora MUERE!!! ¡Jaja! Qué debilucho.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Tanto por una Plaga…</BattleDialog>
     </Type>
   </Character>
 
   <Character ID="RustyChainGroup">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">Why do we have to do all this just to deal with the Kurokumo…</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">It’s to get a hold of their weak point, so don’t complain too much.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">Jikan is right. If we fail this, our Syndicate won’t be safe.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">Hey! Get your shit together. This is no time to be complaining, is it?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">Por qué tenemos que hacer todo esto sólo para lidiar con los Kurokumo.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Es para encontrar su punto débil, así que no te quejes tanto.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Jikan tiene razón. Si fallamos aquí, nuestro Sindicato no estará seguro.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">¡Hey! Pongan su mierda en orden. No es momento de estar quejándose, ¿o sí?</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">They were a buncha weaklings. Didn’t even have to try.</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_0">This shit is all we need to grab the Kurokumo Clan by the balls?</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_0">Oof, my muscles… Let’s get back.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">Eran un montón de debiluchos. Ni siquiera tuve que intentarlo.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">¿Esta mierda es todo lo que necesitamos para tener al Clan Kurokumo por las pelotas?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">Oof, mis músculos… Regresemos.</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">I don’t wanna die… This ain’t fair…</BattleDialog>
-      <BattleDialog ID="DEATH_0">How strong are they…?</BattleDialog>
-      <BattleDialog ID="DEATH_0">Shouldn’t’ve looked down on ‘em…</BattleDialog>
+      <BattleDialog ID="DEATH_0">No quiero morir… Esto no es justo…</BattleDialog>
+      <BattleDialog ID="DEATH_0">¿Qué tan fuertes son…?</BattleDialog>
+      <BattleDialog ID="DEATH_0">No debería haberlos subestimado…</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH">
-      <BattleDialog ID="COLLEAGUE_DEATH_0">Things got more complicated.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_1">Is no one here doing their job?</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_1">Might as well have fought the Kurokumo Clan head on.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Las cosas se pusieron más complicadas.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">¿Nadie aquí está haciendo su trabajo?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Mejor nos hubiéramos enfrentado al Clan Kurokumo de frente.</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">This is gonna be done faster than I expected.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1">There’s still more… When is this gonna end?</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_2">They were pretty tenacious… But a tenderfoot’s a tenderfoot.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">Esto va a acabar más rápido de lo que esperaba.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Todavía quedan más… ¿Cuándo va a terminar esto?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Era bastante tenaz… Pero un pie tierno es un pie tierno.</BattleDialog>
     </Type>
   </Character>
 </BattleDialogRoot>
