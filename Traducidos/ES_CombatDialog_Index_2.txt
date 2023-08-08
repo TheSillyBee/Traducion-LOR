@@ -3,80 +3,80 @@
   <GroupName>2</GroupName>
   <Character ID="Esther">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">Keep your eyes closed. Save yourselves from unnecessary distraction.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">Hold your position. We shall be ready for oncoming attacks.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">We act as proxies of the will of the Prescripts.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">Mantengan sus ojos cerrados. Ahórrense la distracción innecesaria.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Mantengan su posición. Hemos de estar listos para los ataques que se aproximan.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Actuamos como prosélitos de la voluntad de los Preceptos.</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">…Perhaps it’s time I met a new Messenger.</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_1">The Prescripts never fail to guide us along the right path.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">…Tal vez es hora de que conozca a un Mensajero nuevo.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Los Preceptos nunca fallan en guiarnos por el camino correcto.</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">I cannot refute this outcome. It never told us to emerge victorious…</BattleDialog>
+      <BattleDialog ID="DEATH_0">No puedo refutar este resultado. Nunca nos dijo que emergiéramos victoriosos…</BattleDialog>
     </Type>
     <Type ID="SPECIAL_EVENT">
-      <BattleDialog ID="SPECIAL_EVENT_0">Those who wish to live a life through meaning given by a higher power, should be prepared to accept death as one such meaning.</BattleDialog>
-      <BattleDialog ID="SPECIAL_EVENT_1">Now is the time to act and carry out the Prescript.</BattleDialog>
-      <BattleDialog ID="SPECIAL_EVENT_2">Even the highest peaks reaching to the skies can break.</BattleDialog>
-      <BattleDialog ID="SPECIAL_EVENT_3">Remember. Negligent behavior will lead to death.</BattleDialog>
-      <BattleDialog ID="SPECIAL_EVENT_4">The remaining ones will continue to carry out the Prescript.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_0">Aquellos que desean vivir una vida a través de un significado dado por un poder mayor, deberían estar preparados para aceptar la muerte como un tal significado.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">Ahora es el momento de actuar y llevar a cabo el Precepto.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_2">Incluso los picos más altos alcanzando los cielos pueden romperse.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_3">Recuerden. Comportamiento negligente guiará a la muerte.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_4">Los restantes continuarán en realizar el Precepto.</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">No excuses.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1">You were fated to fall at this moment.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_2">…The deed is nearly done.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">Sin excusas.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Estabas destinado a caer en este momento.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">…El acto está casi hecho.</BattleDialog>
     </Type>
   </Character>
   <Character ID="Hubert">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">Only the Prescripts know who will live or die here.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">…Keep them down.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">I cannot fathom how adept they might be.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">Sólo los Preceptos saben quien vivirá o morirá aquí.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">…Manténganlos abajo.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">No puedo imaginar cuán adeptos pueden ser.</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">They were not fit to hold a candle to us.</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_1">…Another Prescript will be waiting for us outside.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">No eran aptos para compararse a nosotros.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">…Otro Precepto estará esperándonos fuera.</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">…I have no complaint against the set course.</BattleDialog>
+      <BattleDialog ID="DEATH_0">…No tengo queja contra el rumbo fijo.</BattleDialog>
     </Type>
     <Type ID="SPECIAL_EVENT">
-      <BattleDialog ID="SPECIAL_EVENT_0">Who could have quarrel with the fate set by the Prescripts.</BattleDialog>
-      <BattleDialog ID="SPECIAL_EVENT_1">This must have been destined to happen.</BattleDialog>
-      <BattleDialog ID="SPECIAL_EVENT_2">I cannot be led astray by what happened before my eyes.</BattleDialog>
-      <BattleDialog ID="SPECIAL_EVENT_3">There is no way to change the predetermined path.</BattleDialog>
-      <BattleDialog ID="SPECIAL_EVENT_4">We are to complete our duty.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_0">Quién podría oponerse al destino puesto por los Preceptos.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">Esto debe de haber estado destinado a pasar.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_2">No puedo ser descarriado por lo que ha pasado frente a mis ojos.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_3">No hay forma de cambiar el camino predeterminado.</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_4">Hemos de completar nuestro deber.</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">Laughable. Is this what your will had to show?</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1">Finished you with one cut…</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_2">…This is rather demanding.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">Ridículo. ¿Esto es lo que tu voluntad tenía para mostrar?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Te rematé con un corte…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">…Esto es bastante demandante.</BattleDialog>
     </Type>
   </Character>
   <Character ID="Gloria">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">What a bad boy Yan is~ He can’t just send us here and go somewhere else all alone!</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">Another day of carrying out Prescripts~</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">The Prescripts always bring us to the right places~</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">Qué mal chico es Yan~ ¡No puede sólo mandarnos aquí e irse a algún otro lado por su cuenta!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Otro día de llevar a cabo Preceptos~</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Los Preceptos siempre nos llevan a los sitios correctos~</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">That wasn’t hard to complete~</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_1">Was taking these books part of the Prescript~?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">Eso no fue difícil de completar~</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">¿Era tomar estos libros parte del Precepto~?</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">How sad~ But what can I do…</BattleDialog>
+      <BattleDialog ID="DEATH_0">Qué triste~ Pero qué puedo hacer…</BattleDialog>
     </Type>
     <Type ID="SPECIAL_EVENT">
-      <BattleDialog ID="SPECIAL_EVENT_0">A pity that you had to perish that way~</BattleDialog>
-      <BattleDialog ID="SPECIAL_EVENT_1">The rest of us gotta finish the Prescript somehow, right~?</BattleDialog>
-      <BattleDialog ID="SPECIAL_EVENT_2">Hmm, could this be a trial~?</BattleDialog>
-      <BattleDialog ID="SPECIAL_EVENT_3">I wonder when my demise will be~</BattleDialog>
-      <BattleDialog ID="SPECIAL_EVENT_4">It won’t take us to the wrong way still~</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_0">Una lástima que tuvieras que fallecer así~</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_1">El resto de nosotros debe de acabar el Precepto de alguna forma, ¿verdad~?</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_2">Hmm, ¿podría ser esto una prueba~?</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_3">Me pregunto cuándo será mi muerte~</BattleDialog>
+      <BattleDialog ID="SPECIAL_EVENT_4">De todas formas no nos llevará al camino erróneo~</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">You’re just like the liger that greeted us at the door~ Half-baked like the halves you are.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1">No hard feelings~ It’s all in the will of the Prescripts.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_2">We’ve almost completed this Prescript~</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">Eres tal y como la ligresa que nos saludó en la puerta~ A medio cocinar como las mitades que son.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Sin resentimientos~ Está todo en la voluntad de los Preceptos.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Casi hemos completado este Precepto~</BattleDialog>
     </Type>
   </Character>
   <Character ID="Index(with Proxy)">
