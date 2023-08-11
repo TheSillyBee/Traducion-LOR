@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <BattleDialogRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <GroupName>Kurokumo Clan</GroupName>
+  <GroupName>Clan Kurokumo</GroupName>
   <Character ID="Sayo">
     <Type ID="START_BATTLE">
       <BattleDialog ID="START_BATTLE_0">Qué lindo grupo de adorables pequeños cachorros~</BattleDialog>
@@ -9,19 +9,19 @@
     </Type>
     <Type ID="BATTLE_VICTORY">
       <BattleDialog ID="BATTLE_VICTORY_0">Espero que esto te haya enseñado una buena lección.</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_1">Esto no habría sucedido si solo hubieras metido el rabo entre las patas y te hubieras rendido... ugh, qué pena.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Esto no habría sucedido si sólo hubieras metido el rabo entre las patas y te hubieras rendido... ugh, qué pena.</BattleDialog>
     </Type>
     <Type ID="DEATH">
       <BattleDialog ID="DEATH_0">Si tan solo esa perra no hubiera interferido con nuestro negocio…</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH">
-      <BattleDialog ID="COLLEAGUE_DEATH_0">Tsk. Esta es la fuerza de un mediocre que juró protegerme?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Tsk. ¿Esta es la fuerza de un mediocre que juró protegerme?</BattleDialog>
       <BattleDialog ID="COLLEAGUE_DEATH_1">Esto no servirá... Aún no has cumplido plenamente tu función.</BattleDialog>
       <BattleDialog ID="COLLEAGUE_DEATH_2">Parece que la situación se encamina a una dirección bastante preocupante.</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
       <BattleDialog ID="KILLS_OPPONENT_0">Deberías haber empacado y renunciado a esta ocupación si eras tan inepto.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1">Parecías bastante impaciente~ Estabas nervioso, tal vez?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Parecías bastante impaciente~ ¿Estabas nervioso, tal vez?</BattleDialog>
       <BattleDialog ID="KILLS_OPPONENT_2">Eso fue bastante decepcionante para una facción tan notoria.</BattleDialog>
     </Type>
   </Character>
@@ -40,11 +40,11 @@
     </Type>
     <Type ID="COLLEAGUE_DEATH">
       <BattleDialog ID="COLLEAGUE_DEATH_0">Podríamos haber evitado morir como un perro de esta manera.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_1">Hemos perdido algo de vigor lidiando con esa terrible experiencia afuera... Supongo que nos quedaba muy poco para manejar esto.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Hemos perdido algo de vigor lidiando con esa terrible experiencia afuera… Supongo que nos quedaba muy poco para manejar esto.</BattleDialog>
       <BattleDialog ID="COLLEAGUE_DEATH_2">No quiero ver a nadie más quedarse atrás.</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">Intentaste detenerme con tan poca fuerza?</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">¿Intentaste detenerme con tan poca fuerza?</BattleDialog>
       <BattleDialog ID="KILLS_OPPONENT_1">Debes conocer tu posición.</BattleDialog>
       <BattleDialog ID="KILLS_OPPONENT_2">Es desafortunado, pero es hora de que te rindas.</BattleDialog>
     </Type>
@@ -52,7 +52,7 @@
   <Character ID="Yang">
     <Type ID="START_BATTLE">
       <BattleDialog ID="START_BATTLE_0">Hooh~ Hombre, estoy cansado.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">Cuándo podré dejar de cubrirme de sucias manchas de sangre?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">¿Cuándo podré dejar de cubrirme de sucias manchas de sangre?</BattleDialog>
       <BattleDialog ID="START_BATTLE_2">No puede salir nada bueno de ponerse nervioso de esta manera~</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
@@ -60,11 +60,11 @@
       <BattleDialog ID="BATTLE_VICTORY_1">Eres tan frágil que no puedo soportar verlo.</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">Carajo… Sabes siquiera lo que sucede si tratas así al Kurokumo…?</BattleDialog>
+      <BattleDialog ID="DEATH_0">Carajo… ¿Sabes siquiera lo que sucede si tratas así al Kurokumo…?</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH">
-      <BattleDialog ID="COLLEAGUE_DEATH_0">Eso... fue bastante fuerte. Será mejor que tenga cuidado con eso.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_1">De ningún modo. Estamos siendo dominados por esos cabrones?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Eso… fue bastante fuerte. Será mejor que tenga cuidado con eso.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">De ningún modo. ¿Estamos siendo dominados por esos cabrones?</BattleDialog>
       <BattleDialog ID="COLLEAGUE_DEATH_2">Nada bueno puede venir de perder nuestras fuerzas uno por uno…</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
@@ -76,7 +76,7 @@
   <Character ID="Normal Enemies">
     <Type ID="START_BATTLE">
       <BattleDialog ID="START_BATTLE_0">No dejaré que pongan una espada sobre Madame Sayo.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">Comienza una pelea contra el Kurokumo... Eres bastante valiente, eso lo admito.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Comienza una pelea contra el Kurokumo… Eres bastante valiente, eso lo admito.</BattleDialog>
       <BattleDialog ID="START_BATTLE_2">Nos moveremos primero. Estén preparados, todos…</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
@@ -87,13 +87,13 @@
       <BattleDialog ID="DEATH_0">Nunca pensé… que cometería tal error…</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH">
-      <BattleDialog ID="COLLEAGUE_DEATH_0">C-Corre, señora. Algo no está bien en este lugar…</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_1">Otro ha caido… Esto no es bueno.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_0">C-Corra, señora. Algo no está bien en este lugar…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Otro ha caído… Esto no es bueno.</BattleDialog>
       <BattleDialog ID="COLLEAGUE_DEATH_2">Eso envió escalofríos por mi espina dorsal. Maldición… Esto me está asustando.</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
       <BattleDialog ID="KILLS_OPPONENT_0">Podríamos usar un poco más de precaución a medida que avanzamos.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1">Eras bastante hábil... Pero fuiste imprudente en el último momento.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Eras bastante hábil… Pero fuiste imprudente en el último momento.</BattleDialog>
       <BattleDialog ID="KILLS_OPPONENT_2">No dejaré que todos ustedes se escapen.</BattleDialog>
     </Type>
   </Character>
