@@ -3,52 +3,52 @@
   <GroupName>Liu</GroupName>
   <Character ID="Liu-Fixer">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">My eyes shall look straight ahead as we advance.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">We will not expose our back to the enemy.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">To become a dragon of the battlefield, honorable and courageous…</BattleDialog>
-      <BattleDialog ID="START_BATTLE_3">No matter what you do, maintain a sound body and mind.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_4">It may not be the kind of task we usually handle, but surely it can be dealt with in the same way.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_5">Remember the protocol… Let’s not get nervous.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_6">I am not afraid. Moving out!</BattleDialog>
-      <BattleDialog ID="START_BATTLE_7">The Liu is overpowered by none.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_8">We must be quick to go on the offensive.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_9">One’s actions should not be a detriment to all.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">Mis ojos han de mirar directo al frente conforme avanzamos.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">No expondremos nuestra espalda al enemigo.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Convertirse en un dragón del campo de batalla, honorable y temerario…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Sin importar lo que hagas, mantén un cuerpo y mente sanos.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">Puede que no sea el tipo de tarea con la que solemos lidiar, pero seguramente puede ser manejada de la misma manera.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_5">Recuerden el protocolo… No nos pongamos nerviosos.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_6">No estoy asustado. ¡En movimiento!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_7">Los Liu son superados por nadie.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_8">Debemos de ser rápidos en ir a la ofensiva.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_9">Las acciones de uno no deberían ser un detrimento a todos.</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">It’s hardly believable that such amateurs made it to this grade…</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_1">Regardless, we’ve accomplished the given mission… Let us go back.</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_2">It’s not a good idea to become overconfident in victory.</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_3">I won’t take pity on the opponent.</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_4">A smooth triumph. Let’s take the books we were requested to retrieve and return.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">Es apenas creíble que semejantes novatos llegaran a este grado…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">De todas formas, hemos completado la misión dada… Regresemos.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">No es una buena idea tener exceso de confianza en la victoria.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">No debería tener lástima del oponente.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_4">Un triunfo sin complicaciones. Vamos a tomar los libros que nos solicitaron recogiéramos y regresemos.</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">I’d hate to drag others down…</BattleDialog>
-      <BattleDialog ID="DEATH_1">I don’t want to give in at this point…</BattleDialog>
-      <BattleDialog ID="DEATH_2">How rash… A single mistake resulted in this…</BattleDialog>
-      <BattleDialog ID="DEATH_3">Hesitation would only be a roadblock…</BattleDialog>
-      <BattleDialog ID="DEATH_4">It would seem… I’ve reached my limit.</BattleDialog>
+      <BattleDialog ID="DEATH_0">Odiaría hundir a otros conmigo…</BattleDialog>
+      <BattleDialog ID="DEATH_1">No me gustaría rendirme a este punto…</BattleDialog>
+      <BattleDialog ID="DEATH_2">Qué imprudente… Un error singular resultó en esto…</BattleDialog>
+      <BattleDialog ID="DEATH_3">La duda sólo sería un obstáculo…</BattleDialog>
+      <BattleDialog ID="DEATH_4">Pareciera que… he alcanzado mi límite.</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH">
-      <BattleDialog ID="COLLEAGUE_DEATH_0">We can’t afford to dwell on personal feelings.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_1">…All we can do is move onward in silence.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_2">It’s still difficult to stay composed over someone’s demise.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_3">…The offensive must continue.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_4">We can’t back down now, despite the risk.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_0">No podemos permitirnos atorarnos con sentimientos personales.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">…Todo lo que podemos hacer es avanzar en silencio.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Todavía es difícil permanecer calmado tras la muerte de alguien.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">…La ofensiva debe continuar.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">No podemos retroceder ahora, a pesar del riesgo.</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">I wish for the rest of our combat to resolve swimmingly like just now.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1">Inviting people to a fight with such a lax mindset was your mistake.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_2">I won’t let a single second pass in vain or let a single foe escape my notice.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_3">In moments like this, your weapon is the one thing you can rely on.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_4">Such feeble attacks won’t get through.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">Deseo que el resto de nuestro combate se resuelva tranquilamente como hace un momento.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Invitar a gente a una pelea con una mentalidad tan relajada fue su error.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">No dejaré que un solo segundo pase en vano o dejar a un solo enemigo escapar mi atención.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">En momentos como este, tu arma es la única cosa en la que puedes confiar.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_4">Tales ataques endebles no me alcanzarán.</BattleDialog>
     </Type>
   </Character>
   <Character ID="Lowell">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">Focus. They aren’t pushovers by any means.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">Cecil, Mei. Are you ready?</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">As long as our body and mind are sound, the results won’t betray us.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_3">Don’t be scared. Remember that the key to the enemy’s defeat is within yourselves.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">Concéntrense. No son debiluchos en lo absoluto.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Cecil, Mei. ¿Están listas?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Mientras nuestro cuerpo y mente estén sanos, los resultados no nos traicionarán.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">No tengan miedo. Recuerden que la llave para la derrota del enemigo está dentro de nosotros.</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
       <BattleDialog ID="BATTLE_VICTORY_0">I understand that you’re tired, but don’t forget to take the books.</BattleDialog>
