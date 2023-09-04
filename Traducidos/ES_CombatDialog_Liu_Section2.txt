@@ -51,73 +51,73 @@
       <BattleDialog ID="START_BATTLE_3">No tengan miedo. Recuerden que la llave para la derrota del enemigo está dentro de nosotros.</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">I understand that you’re tired, but don’t forget to take the books.</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_1">Victory was already in our hands when we entered, so it was inevitable that the enemy lost.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">Entiendo que están cansados, pero no olviden tomar los libros.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">La victoria ya estaba en nuestras manos cuando entramos, así que era inevitable que el enemigo perdiera.</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">…At least, I could do something for my own sake till the end.</BattleDialog>
+      <BattleDialog ID="DEATH_0">…Por lo menos, pude hacer algo por mi propio bien hasta el final.</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH">
-      <BattleDialog ID="COLLEAGUE_DEATH_0">I’m sorry… Thank you for your efforts.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_1">Your will shall carry on… I swear to win this battle.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_2">…Should we pull back? No, the situation isn’t right yet…</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_3">In difficult situations, be on the defensive.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_4">Even if everyone else dies, as long as one person stands… There’s still a chance to win.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Lo siento… Gracias por tus esfuerzos.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Tu voluntad habrá de continuar… Juro ganar esta batalla.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">…¿Deberíamos retirarnos? No, la situación aún no es propicia…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">En situaciones difíciles, estén a la defensiva.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">Incluso si todos los demás mueren, mientras una persona siga en pie… Todavía hay oportunidad de ganar.</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">The battle isn’t over yet. Stay focused!</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1">We’re pressing on further. This isn’t over just yet…</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_2">Even the most rigorously trained soldier has weaknesses in body and mind.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">La batalla todavía no acaba. ¡Manténganse concentrados!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Estamos presionando aún más. Esto todavía no acaba…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Incluso el soldado más rigurosamente entrenado tiene debilidades en cuerpo y mente.</BattleDialog>
     </Type>
   </Character>
   <Character ID="Cecil">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">Yessir! Going forth right away.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">We shall not let them attack us from our back. We’ll push forward with a steadfast spirit.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">We will advance before the enemy can assume a formation!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">¡Sí señor! Avanzando de inmediato.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">No hemos de dejarles atacarnos por la espalda. Avanzaremos con un espíritu firme.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">¡Avanzaremos antes de que el enemigo pueda asumir una formación!</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">I think the intel we got here will prove to be handy.</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_1">I wonder if Section 1 has finished their work by now. Shall we head back?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">Creo que la intel que conseguimos aquí demostrará ser útil.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Me pregunto si la Sección 1 ha terminado su trabajo ya. ¿Deberíamos de volver?</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">Perhaps I wasn’t fit… to best a Star of the City.</BattleDialog>
+      <BattleDialog ID="DEATH_0">Tal vez no fui adecuada… para superar a una Estrella de la Ciudad.</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH">
-      <BattleDialog ID="COLLEAGUE_DEATH_0">Now is the time for action! Don’t be discouraged!</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_1">We can endure this. We won’t lose…</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_2">With the right mindset… We can overcome situations like this.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_3">We will retaliate with even greater strength!</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_0">¡Ahora es el momento para la acción! ¡No se desanimen!</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Podemos aguantar esto. No perderemos…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Con la mentalidad correcta… Podemos superar situaciones como esta.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">¡Contraatacaremos con fuerza incluso mayor!</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">A clean finish.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1">They’re almost finished… We’ll charge further into their ranks!</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_2">I’m not exhausted in the slightest; I feel like I’m on fire!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">Un final limpio.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Casi están acabados… ¡Cargaremos incluso más adelante entre sus filas!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">No estoy exhausta en lo absoluto; ¡me siento como si estuviera en llamas!</BattleDialog>
     </Type>
   </Character>
   <Character ID="Mei">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">I’m prepared! Moving out now.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">There aren’t too many foes!</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">Know your enemy and know yourself! Then you won’t falter after a hundred fights.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">¡Estoy preparada! Moviéndome ya.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">¡No hay demasiados enemigos!</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">¡Conoce a tu enemigo y conócete a ti mismo! Entonces no caerás después de cien peleas.</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">I was just starting to get warmed up… That’s a bit of a shame!</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_1">That was an easy formation to break!</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">Apenas estaba empezando a calentar… ¡Es un tanto de lástima!</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">¡Esa fue una formación fácil de romper!</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">Sorry, director… I could’ve toughed it out…</BattleDialog>
+      <BattleDialog ID="DEATH_0">Lo siento, director… Podría haberlo resistido…</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH">
-      <BattleDialog ID="COLLEAGUE_DEATH_0">I won’t stop here! Giving up would be a rude thing to do to all my colleagues that have passed away.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_1">The battle is ongoing… It’s not finished yet!</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_2">Can’t let them have it their way… HERE I COME!!!</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_3">I’m not foolish enough to let such a casualty surprise me.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_0">¡No me detendré aquí! Rendirme sería una cosa grosera que hacer a todos mis colegas que han fallecido.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">La batalla continúa… ¡Todavía no ha terminado!</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">No puedo dejarles que se salgan con la suya… ¡¡¡AQUÍ VOY!!!</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">No soy tan tonta como para dejar que tal baja me sorprenda.</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">Things seem to be on a smooth track!</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1">Is everyone alright? We should know when to advance and when to hold our position.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_2">It’s too late to hope for victory when the battle has already begun!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">¡Las cosas parecen ir por buen camino!</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">¿Están todos bien? Deberíamos saber cuándo avanzar y cuándo mantener nuestra posición.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">¡Es demasiado tarde para esperar victoria cuando la batalla ya ha empezado!</BattleDialog>
     </Type>
   </Character>
 </BattleDialogRoot>
