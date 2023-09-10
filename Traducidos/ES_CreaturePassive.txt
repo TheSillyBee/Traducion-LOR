@@ -182,7 +182,7 @@
   <PassiveDesc ID="501011">
     <Name>Cambio Adverso</Name>
     <Desc>Cuando el medidor de Histeria es llenado, Se transforma. El medidor de Histeria aumenta al perder choques o Al ser atacada por enemigos marcados, y disminuye al ganar choques o atacando personajes parcados. La pantalla se tinta de rosa a medida que el medidor de Histeria es llenado.
-Al final de la Escena,Restaura toda la luz y Roba 2 páginas.</Desc>
+Al final de la Escena,Restaura toda la luz y Saca 2 páginas.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="501012">
     <Name>En Nombre del Odio</Name>
