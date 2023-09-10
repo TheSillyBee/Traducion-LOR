@@ -3,1278 +3,1270 @@
 
   <!-- 불타버린 소녀 -->
   <PassiveDesc ID="105010">
-    <Name>Corrosion</Name>
-    <Desc>Moves to the next phase after HP drops to 1.</Desc>
+    <Name>Corrosión</Name>
+    <Desc>Pasa a la siguiente fase cuando el HP cae a 1.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="305510">
-    <Name>Corrosion</Name>
-    <Desc>Moves to the next phase after HP drops to 0.</Desc>
+    <Name>Corrosión</Name>
+    <Desc>Pasa a la siguiente fase cuando el HP cae a 0.</Desc>
   </PassiveDesc>
-
-  <!-- 불타버린 소녀 -->
+  <!-- Realización del piso de Historia-->
+  <!-- La Chica quemada(Scorched girl)-->
   <PassiveDesc ID="105111">
-    <Name>Rekindled Flame</Name>
-    <Desc>Lose 25% of Max HP and get Staggered when an ally dies.</Desc>
+    <Name>LLama Reavivada</Name>
+    <Desc>Pierde 25% de HP y es Aturdida,Cuando un Aliado muere.</Desc>
   </PassiveDesc>
-  <!-- 불타버린 소녀 -->
   <PassiveDesc ID="105112">
-    <Name>Ashes</Name>
-    <Desc>Lose 1 Light upon getting Staggered.</Desc>
+    <Name>Cenizas</Name>
+    <Desc>Pierde 1 Luz al ser Aturdida.</Desc>
   </PassiveDesc>
-
-  <!-- 테디 -->
+ <!-- El osito feliz(Happy Teddy Bear)-->
   <PassiveDesc ID="105211">
-    <Name>Affection</Name>
-    <Desc>Whenever the character uses a page, its target is inflicted with 1 Affection.</Desc>
+    <Name>Afecto</Name>
+    <Desc>Cuando el Personaje usa una pagina,el objetivo es infringido con 1 de Afecto.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="105212">
-    <Name>Nostalgic Embrace of the Old Days</Name>
-    <Desc>If a librarian has 4 or more stacks of Affection, uses a powerful Combat Page.</Desc>
+    <Name>Abrazo Nostálgico de los Viejos Tiempos</Name>
+    <Desc>Si un Bibliotecario tiene 4 o más acumulaciones de Afecto,usa una poderosa Pagina de Combate.</Desc>
   </PassiveDesc>
-
-  <!-- 요정 -->
+   <!-- Reina hada(Fairy queen)-->
   <PassiveDesc ID="105311">
-    <Name>Momentary Satiation</Name>
-    <Desc>If an ally has 20 or less HP, consume it at the start of the Scene to recover 20 HP and gain 2 Strength.</Desc>
+    <Name>Saciedad Momentanea</Name>
+    <Desc>Si un aliado tiene 20 HP o menos.lo consume para recuperar 20 HP y ganar 2 de Fuerza</Desc>
   </PassiveDesc>
-  <!-- 요정 -->
   <PassiveDesc ID="105312">
-    <Name>Ravenousness</Name>
-    <Desc>After taking 40 total damage during battle, consume the ally with the lowest HP at the start of the Scene and recover 40 HP. Permanently gain 2 Strength for each ally defeated this way.</Desc>
+    <Name>Voracidad</Name>
+    <Desc>Luego de recibir 40 de daño en total durante la batalla,consume el aliado con el HP mas bajo al comienzo de la Escena Y recupera 40 HP.
+	Permanentemente gana 2 de Fuerza por cada aliado derrotado de esta forma.</Desc>
   </PassiveDesc>
-  <!-- 요정 -->
   <PassiveDesc ID="105313">
-    <Name>Ravening Hunger</Name>
-    <Desc>If HP goes down to 50% or lower, restore Light to full at the start of the next Scene and add 3 powerful Combat Pages to hand.</Desc>
+    <Name>Hambre voraz</Name>
+    <Desc>Si el HP baja al 50% o menos,restaura la Luz por completo al comienzo de la siguiente Escena y añade 3 Paginas de Combate poderosas.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="105314">
-    <Name>Fresh Meat</Name>
-    <Desc>At the start of the Scene, give the 'Fresh Meat' status to a random librarian.</Desc>
+    <Name>Carne Fresca</Name>
+    <Desc>Al comienzo de la Escena,da el estado de 'Carne Fresca' a un Bibliotecario aleatorio.</Desc>
   </PassiveDesc>
-  <!-- 요정 -->
+ <!--Masa de hadas(Fairy Masa)-->
   <PassiveDesc ID="105321">
-    <Name>Care</Name>
-    <Desc>At the start of each Scene, restore 10 HP.</Desc>
+    <Name>Cuidado</Name>
+    <Desc>Al comienzo de cada Escena, Restaura 10 HP.</Desc>
   </PassiveDesc>
-
-
-  <!-- 여왕벌 -->
+  <!-- Reina Abeja(Queen Bee) -->
   <PassiveDesc ID="105411">
-    <Name>Pronatalism</Name>
-    <Desc>If there are 2 or fewer Worker Bees alive at the start of the Scene, inflict 2 Spores on all librarians.</Desc>
+    <Name>Pronatalismo</Name>
+    <Desc>Si hay 2 o menos Abejas Trabajadoras vivas al comienzo de la Escena, inflinge 2 Esporas en todos los Bibliotecarios.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="105412">
     <Name>Metamorphosis</Name>
-    <Desc>If a librarian dies while under the influence of Spores, spawn a Worker Bee next Scene.</Desc>
+    <Desc>Si un Bibliotecario muere bajo la influencia de Esporas,Aparecera una Abeja Trabajadora en la siguiente Escena.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="105413">
-    <Name>Pheromones</Name>
-    <Desc>Uses pages that boost the aggression and loyalty of all allies every 3 Scenes.</Desc>
+    <Name>Feromonas</Name>
+    <Desc>Utiliza páginas que impulsan la agresion y lealtad de las Abejas Trabajadoras cada 3 Escenas.</Desc>
   </PassiveDesc>
-  <!-- 일벌-->
+   <!-- Abeja Trabajadora(Worker Bee)-->
   <PassiveDesc ID="105421">
-    <Name>Loyalty</Name>
-    <Desc>Target the last foe Angela attacked in the previous Scene.</Desc>
+    <Name>Lealtad</Name>
+    <Desc>Prioriza al ultimo enemigo que ataco a Angela la ultima Escena.</Desc>
   </PassiveDesc>
-
-  <!-- 백설 -->
+  <!-- La Manzana de Blanca Nieves(Snow White's Apple )-->
   <PassiveDesc ID="105511">
-    <Name>Walls of Vines</Name>
-    <Desc>Cannot be attacked until 5 Walls of Vines have been defeated.</Desc>
+    <Name>Muros de Enredaderas</Name>
+    <Desc>No puede ser atacada hasta que 5 Muros de Enredaderas hayan sido derrotados.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="105512">
-    <Name>An Apple Deep in the Forest</Name>
-    <Desc>After all 5 Walls of Vines have been taken down, resistances change for 2 Scenes. Afterwards, they return to normal.</Desc>
+    <Name>Una Manzana en lo Profundo del Bosque</Name>
+    <Desc>Luego de que todos los 5 Muros de Enredadera sean eliminados,Sus resistencias cambian por 2 Escenas.Luego,regresan a la normalidad.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="105513">
-    <Name>Strangling Vines</Name>
-    <Desc>Creates a field of vines that spreads over 3 Scenes. Librarians standing on the vines are inflicted with Bind. The amount of Bind increases with the width of the vine field.</Desc>
+    <Name>Enredaderas Estrangulantes</Name>
+    <Desc>Crea un campo de enredaderas que se expande por 3 Escenas. Bibliotecarios Parados sobre estas se les infringe Atadura. La cantidad de Atadura incrementa con el tamaño del campo de enredaderas.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="105514">
-    <Name>Where’s My Prince?</Name>
-    <Desc>When the field of vines grows to the maximum width, uses a powerful mass attack page that Scene.</Desc>
+    <Name>¿Donde esta Mi Principe?</Name>
+    <Desc>Cuando el campo de Enredaderas alcanza su maximo tamaño,usa una poderosa Pagina de Combate de Ataque en Masa.</Desc>
   </PassiveDesc>
-
-  <!-- 백설 -->
   <PassiveDesc ID="105521">
-    <Name>Withering</Name>
-    <Desc>Suppression is complete when Angela has been handled.</Desc>
+    <Name>Marchitar</Name>
+    <Desc>La supression es completada cuando Angela haya sido tratada.</Desc>
   </PassiveDesc>
 
-
-  <!-- 예소드 층 앤젤라 보스전 패시브 -->
+  <!-- Realización del piso de Tecnologia-->
+  
+  <!-- Asesino abandonado(Forsaken Murderer)-->
   <PassiveDesc ID="205010">
-    <Name>Corrosion</Name>
-    <Desc>Moves to the next phase after HP drops to 1.</Desc>
+    <Name>Corrosión</Name>
+    <Desc>Pasa a la siguiente fase cuando el HP cae a 1.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="205111">
-    <Name>Metallic Ringing</Name>
-    <Desc>Inflict 2 Bind and Paralysis on a successful Blunt attack</Desc>
+    <Name>Retumbe Metalico</Name>
+    <Desc>Infringe 2 de Atadura y Parálisis en un ataque contundente exitoso</Desc>
   </PassiveDesc>
   <PassiveDesc ID="205112">
-    <Name>Violence</Name>
-    <Desc>Restore 1 Light upon defeating an enemy and gain 2 Strength next Scene.</Desc>
+    <Name>Violencia</Name>
+    <Desc>Restaura 1 Luz al derrotar un enemigo y gana 2 de Fuerza la siguiente Escena.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="205113">
-    <Name>Fear</Name>
-    <Desc>All dice lose 4 Power when the character has status effects.</Desc>
+    <Name>Miedo</Name>
+    <Desc>Todos los dados pierden 4 de Poder cuando el Personaje tiene efectos de estado.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="205114">
-    <Name>Ends, Begins, Ends</Name>
-    <Desc>After Fear is activated 2 times, uses a powerful single-target Combat Page.</Desc>
+    <Name>Empieza,Termina,Empieza</Name>
+    <Desc>Luego de que Miedo sea activado 2 veces, usa una Página de Combate de un solo objetivo poderosa.</Desc>
   </PassiveDesc>
+     <!-- El robot que ayuda con todo ese(all-around helper)-->
   <PassiveDesc ID="205211">
-    <Name>Fully Charged!</Name>
-    <Desc>Uses a Mass Attack page if the character has 4 or more Light. If the character has not used the Mass Attack page for 3 Scenes, change its Cost to 0 and use it.</Desc>
+    <Name>¡Completamente Cargado!</Name>
+    <Desc>Usa una Página de Combate en Masa si el personaje tiene 4 más Luz.Si el Personaje no ha usado la Página de Combate en Masa por 3 Escenas,cambia su Costo a 0 y la usa.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="205212">
-    <Name>Repetitive Pattern-Recognition Mk2</Name>
-    <Desc>After dealing 10 or higher total damage with a Combat Page, restore 1 Light.</Desc>
+    <Name>Reconocimiento Repetitivo de Patrones Mk2</Name>
+    <Desc>
+	Restaura 1 de Luz al inflingir 10 de daño o más con una Pagina de Combate en una sola Escena.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="205221">
-    <Name>Repetitive Pattern-Recognition</Name>
-    <Desc>After dealing 10 or higher total damage in a Scene, restore 1 Light.</Desc>
+    <Name>Reconocimiento Repetitivo de Patrones</Name>
+    <Desc>Restaura 1 de Luz al inflingir 10 de daño o más en una sola Escena.</Desc>
   </PassiveDesc>
+  <!-- La maquina cantante(The singing machine)-->
   <PassiveDesc ID="205311">
-    <Name>Please Work Harder!</Name>
-    <Desc>At the start of the Scene, if one or more allies are alive, gain 4 Protection, and recover 10 HP for the ally with the lowest HP.</Desc>
+    <Name>¡Por Favor Trabajen Más Duro!</Name>
+    <Desc>Al comienzo de la Escena, Si uno o más aliados estan vivos, gana 4 de Protección, y el aliado con menor HP recupera 10 HP.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="205312">
-    <Name>Let’s Make Music!</Name>
-    <Desc>On the Scene 'I CRAVE that Melody!' is activated, uses a page that buffs allies.</Desc>
+    <Name>¡Hagamos Musica!</Name>
+    <Desc>En la Escena que '¡Yo ANHELO esa Melodía!' es activado,Usa una Página que potencia aliados.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="205313">
-    <Name>Harmony of Despair</Name>
-    <Desc>While the Singing Machine is playing music, uses a powerful Combat Page</Desc>
+    <Name>Harmonia de la Desesperación</Name>
+    <Desc>Mientras que la Maquina de Canto reproduzca musica,usa una poderosa Página de Combate</Desc>
   </PassiveDesc>
   <PassiveDesc ID="205321">
-    <Name>The Machine that Sings</Name>
-    <Desc>Cannot be targeted. Does not act. Takes no damage.</Desc>
+    <Name>La Maquina que Canta</Name>
+    <Desc>No puede ser objetivo. No actua. No recibe daño.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="205322">
-    <Name>Begin Performance</Name>
-    <Desc>If a character is inside the machine at the start of the Scene after 'I CRAVE that Melody!' was activated, activates 'Performance' for the Scene.</Desc>
+    <Name>Comienza la Actuación</Name>
+    <Desc>Si un Personaje esta dentro de la maquina Al comienzo de la Escena despues de que '¡Yo ANHELO esa Melodía!' sea activado,activa 'Acturación' por la Escena.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="205323">
-    <Name>Performance</Name>
-    <Desc>At the start of the Scene, the character inside the machine takes damage equal to 30% of their Max HP. While the music is playing, all characters gain 5 Strength and all Stagger damage resistances change to "Fatal".</Desc>
+    <Name>Actuacion</Name>
+    <Desc>En la Escena siguiente Escena despues de que '¡Yo ANHELO esa Melodía!' es activado,Toca musica usando el personaje dentro de la maquina.
+	El personaje recibe Daño igual a  30% de su HP maximo y es exluido de la battodosa por esa Escena.
+	Mientras la musica suene, todos los personajes ganan 5 de Fuerza y todas las Durezas cambian a 'Fatal'.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="205331">
-    <Name>I CRAVE that Melody!</Name>
-    <Desc>Starting with the third Scene: every four Scenes, inflict 5 Bind to self, gain an extra Speed die, and use a different set of Combat Pages.</Desc>
+    <Name>¡Yo ANHELO esa Melodía!</Name>
+    <Desc>Empezando por la tercera Escena: cada cuatro Escenas,Gana un dado de velocidad extra,y usa un conjunto distinto de páginas de Combate.
+	Si es aturdido mientras esto esta activo, Es colocado dentro de la maquina al comienzo de la siguiente Escena.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="205332">
-    <Name>Music Addiction</Name>
-    <Desc>If no one is inside Singing Machine by the end of the Scene 'I CRAVE that Melody!' was activated, the Addicted Employee with the lowest HP enters the machine.</Desc>
+    <Name>Adiccion a la Musica</Name>
+    <Desc>Si naMuere esta dentro de la Maquina de Canto en la Escena en que '¡Yo ANHELO esa Melodía!' es activada, el Empleado Adicto con el menor HP entra dentro de la Maquina.</Desc>
   </PassiveDesc>
+  <!--Funeral of Dead Butterflies (El Funeral de las Mariposas Muertas) -->
   <PassiveDesc ID="205411">
-    <Name>Hand of Salvation</Name>
-    <Desc>Targets the enemy with the least HP. Prioritizes targets with Sealed dice.</Desc>
+    <Name>Mano Salvadora</Name>
+    <Desc>Prioriza al enemigo con el HP más bajo.Prioriza a objetivos con dados Sellados.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="205412">
-    <Name>Anguish</Name>
-    <Desc>Dice gain Power depending on the target's HP. (75%~50% HP: Power +1; 50% or lower: Power +2) </Desc>
+    <Name>Angustia</Name>
+    <Desc>Los dados ganan Poder depenMuerendo del HP del enemigo.(75%~50% HP: Poder +1; 50% o menos: Poder +2) </Desc>
   </PassiveDesc>
   <PassiveDesc ID="205413">
-    <Name>Tranquility</Name>
-    <Desc>If all of a character's Speed dice are Sealed by this character's page effects, they become Staggered.</Desc>
+    <Name>Tranquilidad</Name>
+    <Desc>Si todos los dados de un Personaje son Selllados por efecto de las páginas de este Personaje , Ellos quedan Aturdidos.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="205414">
-    <Name>Lamentation</Name>
-    <Desc>If there's a Staggered enemy at the start of the Scene, uses a special Combat Page</Desc>
+    <Name>Luto</Name>
+    <Desc>Si hay un enemigo aturdido al principio de la Escena,Usa una especial Página de Combate</Desc>
   </PassiveDesc>
   <PassiveDesc ID="205415">
-    <Name>Eternal Rest</Name>
-    <Desc>Uses a Mass Attack page every 3 Scenes</Desc>
+    <Name>Descanso Eterno</Name>
+    <Desc>Usa una Página de Combate en Masa cada 3 Escenas</Desc>
   </PassiveDesc>
   <PassiveDesc ID="205421">
-    <Name>Futile Fluttering</Name>
-    <Desc>Targets the enemy with the least HP; suppressed when Angela moves to the next phase.</Desc>
+    <Name>Revoloteo Futil</Name>
+    <Desc>Prioriza al enemigo con el HP más bajo;Suprimido cuando Angela pasa a la siguiente fase.</Desc>
   </PassiveDesc>
+   <!--Der Freischütz -->
   <PassiveDesc ID="205511">
-    <Name>Seven Bullets</Name>
-    <Desc>Stagger Resist does not fall below 1. If Angela's Stagger Resist reaches 1, lose 50 HP and recover all Stagger Resist next Scene, and change behavior.</Desc>
+    <Name>Siete Balas</Name>
+    <Desc>La Dureza no cae debajo de 1.
+	Si la Dureza de angela cae a 1,pierde 50 HP y Dureza la siguiente Escena,ademas cambia su comportamiento.</Desc>
   </PassiveDesc>
-
-
-  <!-- 호드 층 앤젤라 보스전 패시브 -->
+  <!-- Realización del piso de Literatura-->
+  <!-- La expresion timida de hoy(Today´s shy look) -->
   <PassiveDesc ID="305111">
-    <Name>Expressions</Name>
-    <Desc>The number of Speed dice is determimed based on the number of librarians that are alive. Uses different Combat Pages based on the face made at the moment of rolling the Speed dice.</Desc>
+    <Name>Expresiones</Name>
+    <Desc>El numero de dados de Velocidad es determinado segun la cantidad de Bibliotecarios vivos.Usa diferentes Paginas de Combate basado en la cara que hizo al momento de tirar los dados de Velocidad.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="305112">
-    <Name>Put a Bigger Smile on your Face</Name>
-    <Desc>Dice gain differing amounts of Power depending on the current expression; happier expressions indicate less Power. The Combat Pages Angela uses have additional effects that depend on her current expression.</Desc>
+    <Name>Pon una Sonrisa Más Grande en tu Cara</Name>
+    <Desc>Dice gain differing amounts of Poder depending on the current expression; happier expressions indicate less Poder. The Paginas de Combate Angela uses have additional effects that depend on her current expression.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="305113">
-    <Name>Wavering Feelings</Name>
-    <Desc>Uses a powerful Combat Page every 3 Scenes.</Desc>
+    <Name>Sentimientos Oscilantes</Name>
+    <Desc>Usa una poderosa Página de Combate Cada 3 Escenas.</Desc>
   </PassiveDesc>
+    <!-- Los tacones rojos(The Red shoes)-->
   <PassiveDesc ID="305211">
-    <Name>Attracted</Name>
-    <Desc>Prioritizes targets with Bleed.</Desc>
+    <Name>Atraido</Name>
+    <Desc>Prioriza objetivos con Sangrado..</Desc>
   </PassiveDesc>
   <PassiveDesc ID="305212">
-    <Name>Massive Axe</Name>
-    <Desc>Inflicts 1 'Profound Wound' on hit. If target has 5 stacks of Profound Wound, deal damage equal to 25% of their Max HP and remove all stacks of Profound Wound.</Desc>
+    <Name>Hacha masiva</Name>
+    <Desc>Infringe 1 'Herida Profunda' al golpéar.Si el objetivo tiene 5 acumulaciones de 'Herida Profunda',Hace daño igual a 25% de su HP maxima y remueve todas las acumulaciones de 'Herida Profunda'.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="305213">
-    <Name>Glitter</Name>
-    <Desc>If an enemy has 3 or more Bleed at the start of the Scene, uses a powerful Combat Page. Once used, the page is not used again for the next 2 Scenes.</Desc>
+    <Name>Brillo</Name>
+    <Desc>Si un enemgio tiene 3 o más acumulaciones de Sangrado ,al comienzo de la Escena, usa una poderosa Página de Combate.Una vez usada,la pagina no es usada en las siguientes 2 Escenas.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="305221">
-    <Name>Speedy</Name>
-    <Desc>Speed Dice Slot +1</Desc>
+    <Name>Veloz</Name>
+    <Desc>+1 Dado de Velocidad</Desc>
   </PassiveDesc>
   <PassiveDesc ID="305311">
-    <Name>The Hunt Begins</Name>
-    <Desc>Become active and target foes for two Scenes after an ally dies. Targets foes that have killed an ally.</Desc>
+    <Name>La Cacería Comienza</Name>
+    <Desc>Se vuelve activa por dos Escenas luego de que un aliado muere. Prioriza adversarios que hayan matado un aliado.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="305312">
-    <Name>Alertness</Name>
-    <Desc>Every 2 Scenes, give 4 Protection to other allies.</Desc>
+    <Name>Alerta</Name>
+    <Desc>Cada 2 Escenas, da 4 acumulaciones de Protección a otros aliados.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="305321">
-    <Name>Dinnertime!</Name>
-    <Desc>Targets foes with the 'Cocoon' status</Desc>
+    <Name>¡Hora de la Cena!</Name>
+    <Desc>Prioriza enemigos con el estado de "Capullo".</Desc>
   </PassiveDesc>
+  <!--Laetitia-->
   <PassiveDesc ID="305411">
-    <Name>I’ll Give You a Gift!</Name>
-    <Desc>Prioritizes the target with the least amount of 'Gifts' in hand</Desc>
+    <Name>¡Te Dare un Regalo!</Name>
+    <Desc>Prioriza al objetivo con la menor cantidad de 'Regalo' en mano.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="305412">
-    <Name>Funny Prank</Name>
-    <Desc>Adds a 'Gift' to every librarian's hand every 2 Scenes. Gives an additional 'Gift' for every two Wee Witch’s Friends that have died.</Desc>
+    <Name>Bromita Graciosa</Name>
+    <Desc>Añade un 'Regalo' a la mano de todos los Bibliotecario cada 2 Escenas .Da un 'Regalo' adicional por cada 2 Amigos de la Pequeña Bruja que hayan muerto</Desc>
   </PassiveDesc>
   <PassiveDesc ID="305413">
-    <Name>Huuuuge~ Gift!!</Name>
-    <Desc>If all Gift-wrapped Friends are defeated, uses a Mass Attack page next Scene. Afterwards, that page is used every 3 Scenes.</Desc>
+    <Name>¡¡Graaaaaan~ Regalo!!</Name>
+    <Desc>Si todos los Amigos Envueltos para Regalo son derrotados, Usa una Página de Combate en Masa la siguiente Escena. Despues,esa página es usada cada 3 Escenas.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="305414">
-    <Name>Will You Play With Me?</Name>
-    <Desc>Block dice lose Power by 4x the number of 'Gifts' in the opponent's hand</Desc>
+    <Name>¿Jugaras Conmigo?</Name>
+    <Desc>Los dados de Bloqueo pierden Poder equivalente a x4 la cantidad de regalos en mano que tiene el oponente.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="305415">
-    <Name>Being Lonely is Sad</Name>
-    <Desc>If all other allies have died, all resistances change to "Fatal"</Desc>
+    <Name>Estar Sola es Triste</Name>
+    <Desc>Si todos los aliados han muertos,Todas las resistencias cambian a 'Fatal'.</Desc>
   </PassiveDesc>
+    <!--Gift-wraped Friend(Amigo envuelto en regalos)-->
   <PassiveDesc ID="305421">
-    <Name>Gi…ft…</Name>
-    <Desc>Prioritizes the target with the most amount of 'Gifts' in hand</Desc>
+    <Name>Re....ga...lo</Name>
+    <Desc>Prioriza al objetivo con la mayor cantidad de 'Regalo' en mano.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="305422">
     <Name>BOOM!</Name>
-    <Desc>On the third Scene, uses a powerful Combat Page that deals significant damage and gives three copies of 'Gift' to its target before causing the user to self-destruct. The character dies after using that page.</Desc>
+    <Desc>En la tercera Escena,Utiliza una página de combate que hace Daño significativo y da 3 copias de 'Regalo' al oponente antes de causar que el usuario se autodestruya. El Personaje muere luego de usar la página.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="305423">
-    <Name>Here Comes a Surprise Present</Name>
-    <Desc>If this character dies, a Wee Witch’s Friend is spawned next Scene. If the character is killed before it can self-destruct using the special Combat Page, the Friend is spawned with 80% HP.</Desc>
+    <Name>Aqui Viene un Regalo Sorpresa</Name>
+    <Desc>Si este Personaje muere,un Amigo de la Pequeña Bruja aparecera la siguiente Escena.Si el Personaje es asesinado antes de que se autodestruya con la página de Combate especial,El Amigo aparecera con 80% de HP.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="305431">
-    <Name>Gi…ft…</Name>
-    <Desc>Prioritizes the target with the most amount of 'Gifts' in hand</Desc>
+    <Name>Re....ga...lo</Name>
+    <Desc>Prioriza al objetivo con la mayor cantidad de 'Regalo' en mano.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="305432">
-    <Name>Gimme That Gift!</Name>
-    <Desc>Offensive dice gain Power equal to the number of 'Gifts' in the target's hand</Desc>
+    <Name>¡Dame Ese Regalo!</Name>
+    <Desc>Los dados Ofensivos ganan Poder igual a la cantidad de 'Regalos' que tenga el oponente en mano.</Desc>
   </PassiveDesc>
-  <PassiveDesc ID="305511">
-    <Name>Clothing of Nettle</Name>
-    <Desc>Starting with Scene 2, summon a Brother at the start of each Scene. Does not activate if there are already 5 allies alive.</Desc>
+     <!-- El Sueño de un Cisne Negro(Black Swan)-->
+   <PassiveDesc ID="305511">
+    <Name>Indumentaria de Ortiga</Name>
+    <Desc>Empezando por la 2da Escena,invoca un hermano al comienzo de cada Escena.No se activa si ya hay 5 aliados vivos.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="305512">
-    <Name>Family to Protect</Name>
-    <Desc>If four Brothers are alive at the start of the Scene, uses a Mass Attack page</Desc>
+    <Name>Familia que proteger</Name>
+    <Desc>Si 4 Hermanos estan vivos al comienzo de la Escena.Usa una Página de Ataque en Masa</Desc>
   </PassiveDesc>
   <PassiveDesc ID="305513">
-    <Name>Broken Dream</Name>
-    <Desc>If four Brothers have died at the start of the Scene, uses a Mass Attack page</Desc>
+    <Name>Sueño Roto</Name>
+    <Desc>Si cuatro hermano han muerto,al comienzo de la Escena,Usa una Página de Ataque en Masa</Desc>
   </PassiveDesc>
   <PassiveDesc ID="305521">
-    <Name>First Brother</Name>
-    <Desc>While this character is alive, Angela gains a Speed die</Desc>
+    <Name>Primer Hermano</Name>
+    <Desc>Mientras este Personaje siga vivo Angela gana 1 dado de Velocidad.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="305531">
-    <Name>Second Brother</Name>
-    <Desc>While this character is alive, Angela's Speed values increase by 3</Desc>
+    <Name>Segundo Hermano</Name>
+    <Desc>Mientras este Personaje siga vivo,el valor de los dados de Velocidad de Angela Aumentan en 3</Desc>
   </PassiveDesc>
   <PassiveDesc ID="305541">
-    <Name>Third Brother</Name>
-    <Desc>While this character is alive, Angela uses a Combat Page that reflects attacks</Desc>
+    <Name>Tercer Hermano</Name>
+    <Desc>Mientras este Personaje siga vivo,Angela usa una Pagina de Combate que refleja ataques</Desc>
   </PassiveDesc>
   <PassiveDesc ID="305551">
-    <Name>Fourth Brother</Name>
-    <Desc>While this character is alive, Angela's attacks deal "Fatal" damage regardless of resistances</Desc>
+    <Name>Cuarto Hermano</Name>
+    <Desc>Mientras este Personaje siga vivo,Los ataques de Angela hacen daño'Fatal' sin importar las resistencias</Desc>
   </PassiveDesc>
   <PassiveDesc ID="305561">
-    <Name>Fifth Brother</Name>
-    <Desc>While this character is alive, Angela uses a Combat Page that inflicts 5 Bleed and Fragile</Desc>
+    <Name>Quinto Hermano</Name>
+    <Desc>Mientras este Personaje siga vivo,Angela usa Paginas de Combate que infringen 5 de Sangrado y Fragilidad</Desc>
   </PassiveDesc>
   <PassiveDesc ID="305571">
-    <Name>Sixth Brother</Name>
-    <Desc>If this character dies, Angela becomes Staggered</Desc>
+    <Name>Sexto Hermano</Name>
+    <Desc>Si este Personaje Muere,Angela es Aturdida</Desc>
   </PassiveDesc>
-
-  <!-- 우주 속의 조각-->
+ <!-- Realización del piso de Arte-->
+  <!-- Fragmento del universo(Fragmento of the universe)-->
   <PassiveDesc ID="405111">
-    <Name>Tentacles</Name>
-    <Desc>Upon a successful Pierce attack, reduces target's Max Stagger Resist by 5%. (Stacks up to 10 times)</Desc>
+    <Name>Tentaculos</Name>
+    <Desc>Luego de un exitoso ataque perforante, Reduce la Dureza maxima del objetivo en 5%.(Se acumula hasta 10 veces)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="405112">
-    <Name>Echoes</Name>
-    <Desc>Starting with the third Scene, uses the Combat Page 'Echoes from the Beyond' every 2 Scenes</Desc>
+    <Name>Ecos</Name>
+    <Desc>Desde la tercera Escena,usa la Página de Combate '>Ecos del Más Allá' Cada 2 Escenas</Desc>
   </PassiveDesc>
   <PassiveDesc ID="405113">
-    <Name>Incomprehensible</Name>
-    <Desc>Deal double Stagger damage with attacks</Desc>
+    <Name>Incomprensible</Name>
+    <Desc>Infringe el doble de Daño a la Dureza de todas las fuentes</Desc>
   </PassiveDesc>
 
-  <!-- 은하수의 아이 -->
+  <!--Niño de la Galaxia(Child of the Galaxy) -->
   <PassiveDesc ID="405211">
-    <Name>Universe of Two</Name>
-    <Desc>After all other allies have died, lose HP and become Staggered. Becomes targetable afterwards.</Desc>
+    <Name>Universo de Dos</Name>
+    <Desc>Luego de que todos los otros Aliados hayan muerto, Pierde HP y es Aturdido.Despues puede ser atacado.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="405212">
-    <Name>Parting Tears</Name>
-    <Desc>At the start of the Scene, if an ally is in suspended animation, switch to Crying mode; if not, switch to Healing mode. If the character is in Crying mode at the start of a Scene, uses a Mass Attack page.</Desc>
+    <Name>Lágrimas de Despedida</Name>
+    <Desc>Al comienzo de la Escena,si un aliado esta en animacion suspendida,cambia al modo Llanto;sino,cambia al modo Sanación.Si el Personaje esta en modo Llanto al comienzo de la Escena,Usa una Página de Combate en Masa.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="405213">
-    <Name>Pebble</Name>
-    <Desc>If the character is in Healing mode at the start of the Scene, restore the HP of all other allies by 10% of their max HP, and take no action.</Desc>
+    <Name>Guijarro</Name>
+    <Desc>Si el Personaje esta en modo Sanación al comienzo de la Escena, Restaura el HP de todos los otros aliados por 10% de su HP maxima,y no toma acción.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="405221">
-    <Name>Don’t Leave Me</Name>
-    <Desc>HP does not go below 1; upon taking lethal damage, enter a state of suspended animation for the next 2 Scenes. Recover 70% of Max HP when waking up from the status. If all allies excluding Angela have 1 HP at the start of the Scene, die.</Desc>
+    <Name>No me dejes</Name>
+    <Desc>El HP no baja de 1; al recibir daño letal, entra en un estado de animación suspendida durante 2 Escenas.Recupera 70% de su HP maxima al despertar de este estado. Si todos los aliados excluyendo a Angela tienen 1 HP al comienzo de la Escena,Muere.</Desc>
   </PassiveDesc>
 
-  <!-- 포큐버스 -->
+  <!-- Porccubus -->
   <PassiveDesc ID="405311">
-    <Name>Unbearable Pleasure</Name>
-    <Desc>At the start of each Scene, characters restore 1 Light for each page of 'Pleasure' in their hand. On hit, if the target has three pages of 'Pleasure', deal 20 damage and exhaust those pages.</Desc>
+    <Name>Inaguantable Placer</Name>
+    <Desc>Al comienzo de la Escena, Los personajes restauran 1 de Luz por cada página de 'Placer' En su mano. Al golpear, Si el objetivo tiene 3 copias de 'Placer', Inflinge 20 de Daño y agota esas páginas.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="405312">
-    <Name>Time for the Head to Burst</Name>
-    <Desc>Uses a Mass Attack page if a librarian has 2 or more copies of 'Pleasure'. Once used, the page is not used again for the next Scene.</Desc>
+    <Name>Hora de que la Cabeza Explote</Name>
+    <Desc>Usa una Página de Combate en Masa si un Bibliotecario tiene 2 o más copias de "Placer".Una vez usada,la página no es usada otra vez en la siguiente Escena.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="405313">
-    <Name>Thorns Granting Happiness</Name>
-    <Desc>On hit, give the target 2 Positive Emotion Coins.</Desc>
+    <Name>Espinas Otorgando Felicidad</Name>
+    <Desc>Al golpear, Da al objetivo 2 Monedas de Emocion Positivas.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="405314">
-    <Name>Fluttering</Name>
-    <Desc>Take no damage from Ranged pages.</Desc>
+   <Name>Revoloteo</Name>
+    <Desc>No recibe daño de páginas a Distanca.</Desc>
   </PassiveDesc>
 
-  <!-- 알리우네 -->
+  <!-- Alruine -->
   <PassiveDesc ID="405415">
-    <Name>Doll Fashioned from Earth</Name>
-    <Desc>Takes no damage from Burn or Bleed.</Desc>
+       <Name>Muñeca Formada de la Tierra</Name>
+    <Desc>No recibe daño de Quemadura o Sangrado.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="405412">
-    <Name>Blossoming Fragrance</Name>
-    <Desc>This character's attacks only deal Stagger damage to librarians. If a librarian becomes Staggered, they are instantly killed, and 'One Who Emerged from the Earth' is spawned next Scene.</Desc>
+    <Name>Fragancia Floral</Name>
+    <Desc>Los ataques de este Personaje solo infringen daño a la Dureza a los Bibliotecarios.Si un Bibliotecario es aturdido,Son asesinados,y 'Uno que ha emergido de la tierra' aparecera la siguiente Escena.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="405411">
-    <Name>Breathless Atonement</Name>
-    <Desc>This character only takes damage from the librarian with the 'Laurel Wreath' status.</Desc>
+    <Name>Expiacion sin aliento</Name>
+    <Desc>La anormalidad solo recibe Daño del Bibliotecario con el estado de 'Guirnalda de laureles'.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="405413">
-    <Name>Unwithering Flower</Name>
-    <Desc>Starting with Scene 2, a petal blooms behind Angela at the start of each Scene. If three petals have accumulated at the start of a Scene, remove all of them and use a Mass Attack page.</Desc>
+    <Name>Flor Inmarchitable</Name>
+    <Desc>Empezando por la segunda Escena,Un petalo florece detras de la Anormalidad al comienzo de una Escena. Si tres petalos se han acumulado al comienzo de una Escena,Remueve todos y utiliza una página de Ataque en Masa.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="405414">
-    <Name>Tears of Petals</Name>
-    <Desc>Upon becoming Staggered, lose 40 HP and remove all petals at the start of the next Scene. In addition, all librarians recover 50% of their max Stagger Resist.</Desc>
+    <Name>Lagrimas de Petalos</Name>
+    <Desc>Al ser aturdida,pierde 40 HP y remueve todos los petalos al comienzo de la siguiente Escena.Ademas,todos los Bibliotecarios recuperan 50 % de su Dureza maxima.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="405421">
-    <Name>To the Earth Whence I Come…</Name>
-    <Desc>This character dies upon becoming Staggered.</Desc>
+    <Name>A la Tierra de donde Vengo…</Name>
+    <Desc>Este personaje muere al ser aturdido.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="405423">
-    <Name>Doll Fashioned from Earth</Name>
-    <Desc>Takes no damage from Burn or Bleed.</Desc>
+       <Name>Muñeca Formada de la Tierra</Name>
+    <Desc>No recibe daño de Quemadura o Sangrado.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="405422">
-    <Name>Blossoming Fragrance</Name>
-    <Desc>This character's attacks only deal Stagger damage to librarians. If a librarian becomes Staggered, they are instantly killed, and 'One Who Emerged from the Earth' is spawned next Scene.</Desc>
-  </PassiveDesc>
+    <Name>Fragancia Floral</Name>
+    <Desc>Los ataques de este Personaje solo infringen daño a la Dureza a los Bibliotecarios.Si un Bibliotecario es aturdido,Son asesinados,y 'Uno que ha emergido de la tierra' aparecera la siguiente Escena.</Desc>  
+	</PassiveDesc>
 
-
-  <!-- 고케 -->
+  <!-- Da capo -->
   <PassiveDesc ID="405511">
-    <Name>The World’s Most Beautiful Performance</Name>
-    <Desc>The battle lasts 5 Scenes; progresses to the next phase on Scene 6. Uses unique Combat Pages each Scene.</Desc>
+    <Name>La Interpretación Más Hermosa del Mundo</Name>
+    <Desc>La batalla dura 5 Escenas;Progresa a la siguiente Fase en la 6ta Escena.Usa Paginas de Combate unicas cada Escena.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="405512">
-    <Name>Ensemble</Name>
-    <Desc>At the start of the Scene, gain Power equal to the number of other allies who can act</Desc>
+   <Name>Orquesta</Name>
+    <Desc>Al comienzo de la Escena,gana Poder igual al numero de aliados que puedan actuar</Desc>
   </PassiveDesc>
   <PassiveDesc ID="405521">
-    <Name>Silent Performance</Name>
-    <Desc>Does not use Combat Pages. Upon becoming Staggered, become Immobilized for the duration of the phase.</Desc>
+     <Name>Actuación Silenciosa</Name>
+    <Desc>No usa Paginas de Combate.Al ser aturdido,es Inmobilizado por el resto de la Fase.</Desc>
   </PassiveDesc>
 
 
   <PassiveDesc ID="405611">
-    <Name>The World’s Most Beautiful Performance</Name>
-    <Desc>Follows a unique pattern of behavior that cycles every 6 Scenes. Resistances and the amount of Speed dice change every Scene.</Desc>
+  <Name>La Interpretación Más Hermosa del Mundo</Name>
+    <Desc>Sigue un patron de comportamiento unico que cicla cada 6 Escenas.Las resistencias y la cantidad de dados de Velocidad cambian cada Escena.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="405612">
-    <Name>Ever-repeating Performance</Name>
-    <Desc>After using the Combat Page 'Curtain Call', recover the HP of all allies. The healing diminishes with every repeat.</Desc>
+   <Name>Interpretación Que Siempre se Repite</Name>
+    <Desc>Luego de usar la Pagina de Combate 'Llamada a la cortina'recupera el HP de todos los aliados.La curación se reduce en cada uso</Desc>
   </PassiveDesc>
   <PassiveDesc ID="405613">
-    <Name>Fervent Adoration</Name>
-    <Desc>Staggered librarians are given the 'Fervent Adoration' status.</Desc>
+    <Name>Adoración ferviente</Name>
+    <Desc>A los Bibliotecarios Aturdidos se les da el estado 'Adoración Ferviente'.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="405614">
-    <Name>Ensemble</Name>
-    <Desc>At the start of the Scene, gain Power equal to the number of other allies who can act</Desc>
+    <Name>Orquesta</Name>
+    <Desc>Al comienzo de la Escena,gana Poder igual al numero de aliados que puedan actuar</Desc>
   </PassiveDesc>
   <PassiveDesc ID="405621">
-    <Name>Silent Climax</Name>
-    <Desc>Does not act during the fifth and sixth measures of the cycle</Desc>
+    <Name>Climax Silencioso</Name>
+    <Desc>No actua durante la 5ta y 6ta Escena del ciclo</Desc>
   </PassiveDesc>
 
-
-  <!-- 증오의 여왕 -->
+  <!-- Realizacion del piso del Ciencias Naturales -->
+    <!-- Reina del odio(Queen of hatred)-->
   <PassiveDesc ID="505101">
     <Name>Adverse Change</Name>
     <Desc>
-      When the Hysteria gauge is filled, transform. The Hysteria gauge rises upon losing clashes or being attacked by marked characters, and decreases upon winning clashes or attacking marked characters. The screen pinkens from left to right as the gauge fills.
-      At the end of the Scene, restore all Light and draw 2 pages.
+ <Name>Cambio Adverso</Name>
+    <Desc>Cuando el medidor de Histeria es llenado, Se transforma. El medidor de Histeria aumenta al perder choques o Al ser atacada por enemigos marcados, y disminuye al ganar choques o atacando personajes marcados. La pantalla se tinta de rosa a medida que el medidor de Histeria es llenado.
+Al final de la Escena,Restaura toda la luz y Saca 2 páginas.</Desc>
     </Desc>
   </PassiveDesc>
   <PassiveDesc ID="505102">
-    <Name>In the Name of Hate</Name>
-    <Desc>Uses a page that leaves a "mark" on the target every 2 Scenes. All resistances on the marked character change to "Weak", and the character will be primarily targeted by Roland.</Desc>
+    <Name>En Nombre del Odio</Name>
+    <Desc>Usa una página que deja una "Marca" En el objetivo cada 2 Escenas.Todas las resistencias del personaje marcado cambian a "Debil",y el personaje sera el principal objetivo de Roland.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="505103">
     <Name>Arcana Slave</Name>
-    <Desc>Uses a Mass Attack page that targets all librarians every 4 Scenes. Each individual librarian can negate the attack if the sum of all dice rolls on the page played by them is equal to or higher than the mass attack's dice roll.</Desc>
+    <Desc>Usa una Página de Combate en Masa que ataca a todos los Bibliotecarios Cada 4 Escenas. Cada Bibliotecario puede negar el ataque si la suma de cada tirada de dados en la pagina usada es igual o mayor a la tirada del Ataque en Masa.</Desc>
   </PassiveDesc>
 
-  <!-- 절망의 기사 본체-->
+  <!-- El Caballero de la Desesperación(Knigth of Despair)-->
   <PassiveDesc ID="505211">
-    <Name>Loyal Protection</Name>
-    <Desc>Cannot be targeted. Does not act.</Desc>
+    <Name>Protección Leal</Name>
+    <Desc>No puede ser objetivo.No actua.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="505212">
-    <Name>Sorrow</Name>
-    <Desc>Give Tears to a random sword every 3 Scenes. If the character is Staggered, activates the Scene after.</Desc>
+    <Name>Pesar</Name>
+    <Desc>Da Lagrimas a una espada aleatoria cada 3 Escenas.Si el personaje esta Aturdido,Se activa la siguiente Escena.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="505213">
-    <Name>Despair</Name>
-    <Desc>When a sword with Tears takes lethal damage, falls into Despair next Scene.</Desc>
+    <Name>Desesperación</Name>
+    <Desc>Cuando una espada con Lagrimas recibe daño letal,cae en desesperacón la siguiente Escena.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="505214">
-    <Name>Blessing of Despair</Name>
-    <Desc>When the character falls into Despair, all swords fully recover HP and Stagger Resist, and use special Combat Pages.</Desc>
+    <Name>Bendicion de la Desesperación</Name>
+    <Desc>Cuando la Anormalidad cae en deseperación,todas las espadas recuperan HP y Dureza,y utiliza páginas de Combate especiales.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="505215">
-    <Name>A Broken Heart</Name>
-    <Desc>If all swords impale the character in Despair state, become Staggered and targetable next Scene.</Desc>
+  <Name>Un Corazon Roto</Name>
+    <Desc>Si todas las espadas empalan a la Anormalidad en estado desesperado, Es aturdida y puede ser objetivo la siguiente Escena.</Desc>
   </PassiveDesc>
-  <!-- 절망의 기사 칼 -->
+  <!-- Espada de un Caballero olvidado(Sword of a forgotten Knight) -->
   <PassiveDesc ID="505221">
-    <Name>Tears</Name>
-    <Desc>Gain a Speed die, use special pages, and change resistances while under the effect of Tears.</Desc>
+    <Name>Lagrimas</Name>
+    <Desc>Gana un Dado de Velocidad,utiliza páginas especiales, Y cambia sus resistencias mientras esta bajo los efectos de las Lagrimas.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="505222">
-    <Name>Respite</Name>
-    <Desc>Enter a state of suspension upon taking lethal damage. Revives after two Scenes.</Desc>
+      <Name>Respiro</Name>
+    <Desc>Entra en un estado de suspencion al recibir daño letal. Revive luego de dos Escenas.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="505223">
-    <Name>Sword that Pierces Despair</Name>
-    <Desc>If this fails to deal any damage to its target while in Despair state, the sword will impale Roland, dealing damage to him.</Desc>
+   <Name>Espada que atraviesa la Desesperación</Name>
+    <Desc>Si esta falla en hacer daño mientras esta en estado desesperado,La espada va a empalar a Roland,inflingiendole daño.</Desc>
   </PassiveDesc>
-
+<!--The king of Greed(El Rey de la Codicia)-->
   <PassiveDesc ID="505311">
-    <Name>Flicking Desire</Name>
-    <Desc>If HP falls to 50% or lower, transform into the King of Greed next Scene. HP does not go below 50% before transformation.</Desc>
+    <Name>Deseo Parpadeante</Name>
+    <Desc>Si su HP cae a 50% o menos, Se transforma en El Rey de la Codicia en la siguiente Escena.El HP no baja del 50% antes de la Transformación.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="505312">
-    <Name>The Road of Gold</Name>
-    <Desc>Every 3 Scenes, creates Brilliant Bliss and becomes untargetable, but does not act. The following Scene, uses a special Combat Page against all librarians.</Desc>
+    <Name>El Camino del Oro</Name>
+    <Desc>Cada 3 Escenas,Crea Brillante Dicha y se vuelve inatacable,pero no actua.La Escena siguiente,Usa una página de Combate especial contra todos los Bibliotecarios.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="505313">
-    <Name>Narcissism</Name>
-    <Desc>If three or fewer librarians manage to negate the attack of the special Combat Page, gain 3 Strength and Haste next Scene. (If two or less librarians are alive, one or no librarians negating the page will activate this effect)</Desc>
+  <Name>Narsisismo</Name>
+    <Desc>Si tres o menos Bibliotecarios logran negar el ataque de la página de Combate especial, gana 3 de Fuerza y Celeridad .(Si 2 o menos Bibliotecarios estan vivos, uno o ningun Bibliotecarios negando la página activaran este efecto)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="505314">
-    <Name>Momentary Bliss</Name>
-    <Desc>If all librarians successfully negate the attack of the special Combat Page, Roland becomes Staggered next Scene.</Desc>
+  <Name>Dicha Momentanea</Name>
+    <Desc>Si todos los Bibliotecarios niegan exitosamente el ataque de la página de Combate especial,Roland es aturdido la siguiente Escena.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="505321">
-    <Name>The King of Greed</Name>
-    <Desc>Uses a different set of Combat Pages. On a successful hit, deal bonus damage equal to stacks of Bleed on the target.</Desc>
+     <Name>El Rey de la Codicia</Name>
+    <Desc>Usa un set diferente de páginas de Combate. En un ataque exitoso, infringe Daño extra equivalente a la cantidad de Sangrado en el objetivo.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="505322">
-    <Name>The Road of the King</Name>
-    <Desc>Every 3 Scenes, creates Brilliant Bliss and becomes untargetable, but does not act. The following Scene, uses a special Combat Page against a single target.</Desc>
+    <Name>El Camino del Rey</Name>
+    <Desc>Cada 3 Escenas, crea Brillante Dicha y se vuelve inatacable, pero no actua. La Escena siguiente, Usa 2 páginas de Combate especiales contra un solo objetivo.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="505323">
-    <Name>Voracity</Name>
-    <Desc>If a librarian fails to negate any one of the special Combat Page's attacks, deal 15 damage to all librarians and recover 25 HP.</Desc>
+    <Name>Voracidad</Name>
+    <Desc>Si un Bibliotecario falla en negar uno de los ataques de las páginas de Combate especiales, infringe 15 de Daño a todos los Bibliotecarios y recupera 25 HP.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="505324">
-    <Name>A Moment’s Bliss</Name>
-    <Desc>If a librarian successfully negates all attacks of the special Combat Page, Roland becomes Staggered next Scene.</Desc>
+   <Name>La Dicha del Momento</Name>
+    <Desc>Si un Bibliotecario Exitosamente niega todos los ataques de las páginas de Combate especiales,La Anormalidad queda aturdida en la siguiente Escena.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="505331">
-    <Name>Brilliant Bliss</Name>
-    <Desc>Exists for one Scene. Gives special Combat Pages to the librarian that defeats it.</Desc>
+    <Name>Brillante Dicha</Name>
+    <Desc>Existe por una Escena.Entrega una página de Combate especial al Bibliotecario que lo derrote.</Desc>
   </PassiveDesc>
 
   <PassiveDesc ID="505411">
-    <Name>Today’s Play</Name>
-    <Desc>Only Roland can defeat the Hermit. The battle proceeds to the next phase when the Hermit is defeated.</Desc>
+<Name>La Función de Hoy</Name>
+    <Desc>Solo Roland puede derrotar al Hermitaño. La batalla procede a la siguiente Fase cuando el Hermitaño es derrotado.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="505412">
-    <Name>Blind Rage</Name>
-    <Desc>Prioritizes attacking Hermit’s Staves. If no Hermit’s Staff is present, attacks the Hermit.</Desc>
+    <Name>Furia Ciega</Name>
+    <Desc>Prioriza atacar a los Soportes del Hermitaño.Si ningun Soporte esta presente, Ataca al Hermitaño.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="505413">
-    <Name>Sinners of the Otherworlds!</Name>
-    <Desc>While one or more Hermit's Staves are present, after taking 30 total damage, uses a Mass Attack page, 'EMBODIMENTS OF EVIL!!!!' on the following Scene. The total damage counter is reset afterwards.</Desc>
+    <Name>¡Pecadores de otros Mundos!</Name>
+    <Desc>Mientras uno o más Soportes del Hermitaño esten presentes,Luego de recibir 30 de daño,Utiliza la página de Ataque en Masa,'¡¡¡¡ENCARNACIONES DEL MAL!!!!' en la siguiente Escena.El contador de daño total se resetea luego de esto.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="505414">
-    <Name>Boiling Anger</Name>
-    <Desc>When Roland starts attacking the Hermit, uses a Mass Attack page, 'EMBODIMENTS OF EVIL!!!!'. The page is used every 2 Scenes after.</Desc>
+    <Name>Ira Hirviente</Name>
+    <Desc>Cuando la Anormalidad comienza a atacar al Hermitaño,usa un Ataque en Masa,'¡¡¡¡ENCARNACIONES DEL MAL!!!!'.Despues,la página es usada cada 2 Escenas.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="505421">
-    <Name>The Exploited</Name>
-    <Desc>HP does not fall below 30 from a librarian's attacks. If the character's HP is at 30 or lower at the end of a Scene, recovers 50% of Max HP next Scene.</Desc>
+  <Name>El Explotado</Name>
+    <Desc>Su HP no cae debajo de 30 por el ataque de un Bibliotecario.Si el Personaje esta a 30 de HP o menos al final de la Escena,Recupera 50% de su HP maximo la siguiente Escena.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="505422">
-    <Name>Dear Companion</Name>
-    <Desc>Gains +5 Power when clashing against Roland. Takes no damage from Burn, Bleed, or Erosion.</Desc>
+    <Name>Querido Compañero</Name>
+    <Desc>Gana +5 de Poder al chocar contra Roland.No recibe daño de Quemadura, Sangrado,o Erosión.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="505423">
-    <Name>Visitor from Another World</Name>
-    <Desc>While one or more Hermit’s Staves are present, uses a Mass Attack page every 2 Scenes.</Desc>
+   <Name>Visitante de Otro Mundo</Name>
+    <Desc>Mientras uno o mas Apoyos del Hermitaño esten presentes,Usa un Ataque en Masa cada 2 Escenas.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="505424">
-    <Name>When Two Realms Meet</Name>
-    <Desc>
-      Changes behavior when all Hermit’s Staves are defeated. On the first Scene of the new cycle, attacks Roland.
-      After attacking Roland again on the second Scene, again on the second Scene, uses a Mass Attack page that summons more Hermit’s Staves.
-    </Desc>
+  <Name>Cuando 2 Reinos se Conocen</Name>
+    <Desc>Cambia de comportamiento cuando todos los Apoyos del Hermitaño son derrotados.En la primera Escena del primer Ciclo,Ataca a Roland.
+Luego de Atacar a Roland,Usa una página de Ataque en Masa que invoca más apoyo del Hermitaño.</Desc>
+  </PassiveDesc>
   </PassiveDesc>
   <PassiveDesc ID="505431">
-    <Name>Hermit’s Staff</Name>
-    <Desc>Attacks Roland.</Desc>
+    <Name>Apoyo del Hermitaño</Name>
+    <Desc>Ataca a Roland.</Desc>
   </PassiveDesc>
 
   <!-- Nihil -->
   <PassiveDesc ID="505500">
-    <Name>All Returns to Nil</Name>
-    <Desc>Has unique modes of behavior that cycle in the following order: Nihil -> Greed -> Hate -> Despair -> Wrath. Each mode features different passive abilities and Combat Pages.</Desc>
+  <Name>Todo Vuelve al Nulo</Name>
+    <Desc>Tiene modos de comportamiento unicos: Nihil -> Avaricia -> Odio -> Desesperación -> Ira. Cada modo teniendo diferentes habilidades pasivas y Paginas de Combate.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="505501">
-    <Name>Pointless Endeavor</Name>
-    <Desc>Takes no Stagger damage outside of 'Wrath' mode. Takes no damage from Bleed, Burn, Erosion. This character's Speed dice cannot be Sealed.</Desc>
+    <Name>Esfuerzo Inutil</Name>
+    <Desc>No recibe daño a la dureza fuera del modo 'Ira'. No recibe daño de Sangrado, Quemadura, Erosion.Los dados de este Personaje no pueden ser Sellados.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="505502">
-    <Name>Worthless Greed</Name>
+    <Name>Avaricia sin valor</Name>
     <Desc>
-      Combat Pages used against this character lose 5 Power unless the 'Magical Girl of Happiness' is the user.
-      Each time this character loses a clash, a random ally gains the Combat Page 'Fragment of Bliss'. Uses a Mass Attack page 'The Road of Gold' on the second Scene.
-      If all allies negate the attack of 'The Road of Gold', loses 50 HP and shifts to 'Hate' mode next Scene.
-      If any ally is hit, deal 10 damage to all librarians and restore 20 HP.
-      On a successful hit, deals bonus damage equal to the amount of Bleed on the target.
+      Paginas de Combate usadas contra este personaje pierden 5 de Poder a menos que la 'Chica Magica de la Felicidad' sea la usuaria.
+     Cada vez que este personaje pierde un choque,un aliado aleatorio recibe la Página de Combate 'Fragmento de Felicidad'. Usa una Página de Combate en Masa 'El Camino Dorado' en la segunda Escena.
+     Si todos los aliados niegan el ataque de 'El Camino de Oro', pierde 50 HP y cambia al modo 'Odio' la siguiente Escena.
+     Si cualquier aliado es golpeado, infringe 10 de daño a todos los Bibliotecarios y se restaura 20 HP.
+     En un golpe exitoso, infringe daño extra equivalente a la cantidad de Sangrado en el objetivo.
     </Desc>
   </PassiveDesc>
   <PassiveDesc ID="505503">
-    <Name>Pointless Hate</Name>
+    <Name>Odio Sin Sentido </Name>
     <Desc>
-      Combat Pages used against this character lose 5 Power unless the 'Magical Girl of Love' is the user.
-      After winning 10 total clashes, uses a Mass Attack page 'Arcana Slave' on the next Scene.
-      If the Magical Girl of Love uses 'Arcana Slave!', loses 50 HP and shifts to 'Despair' mode next Scene.
+      Paginas de Combate usadas contra este personaje pierden 5 de Poder a menos que la 'Chica Magica del Amor' sea la usuaria.
+      Luego de ganar 10 choque en total, Usa una Página de Combate en Masa 'Esclavo Arcana' en la siguiente Escena.
+      Si la Chica Magica del Amor usa '¡Esclavo Arcana!', pierde 50 HP y cambia al modo 'Desesperación' la siguiente Escena.
     </Desc>
   </PassiveDesc>
   <PassiveDesc ID="505504">
-    <Name>Meaningless Despair</Name>
+    <Name>Desesperacion Inutil </Name>
     <Desc>
-      Combat Pages used against this character lose 5 Power unless the 'Magical Girl of Justice' is the user.
-      If all dice on a Combat Page this character uses lose or draw in a clash, that page will be locked out starting with the next Scene.
-      If all three pages are locked out, loses 50 HP and shifts to 'Wrath' mode next Scene.
+      Paginas de Combate usadas contra este personaje pierden 5 de Poder a menos que la 'Chica Magica de la Justicia' sea la usuaria.
+      Si todos los dados de una Pagina de Combate que este Personaje use pierden o empatan en un choque esa pagina sera consumida desde la siguiente Escena.
+      Si las tres paginas son consumidas, pierde 50 HP y cambia al modo 'Ira' la siguiente Escena.
     </Desc>
   </PassiveDesc>
   <PassiveDesc ID="505505">
-    <Name>Senseless Wrath</Name>
+    <Name>Ira insensata</Name>
     <Desc>
-      Combat Pages used against this character lose 5 Power unless the 'Magical Girl of Courage' is the user.
-      Uses a Mass Attack page every 2 Scenes. Upon becoming Staggered, loses 50 HP and shifts to 'Nihil' mode.
+      Paginas de Combate usadas contra este personaje pierden 5 de Poder a menos que la 'Chica Magica del Coraje' sea la usuaria.
+      Usa una Página de Combate en Masa Cada 2 Escenas. Al ser aturdido, pierde 50 HP y cambia al modo'Nulo'
     </Desc>
   </PassiveDesc>
   <PassiveDesc ID="505511">
-    <Name>Petrified Hate</Name>
+    <Name>Odio Petrificado</Name>
     <Desc>
-      The Magical Girl of Love will stand in for the librarian that breaks this statue at the start of the next Scene.
-      If a Magical Girl breaks the statue, the librarian with the lowest current HP will be replaced instead.
-      Magical Girls possess special Key pages with unique stats, passive abilities and Combat Pages.
+      La Chica Magica del Amor peleara en lugar del Bibliotecario que rompa esta esta estatua,al comienzo de la siguiente Escena.
+      Si una Chica magica rompe la estatua el Bibliotecario con el HP más bajo sera reemplazado en su lugar
+      Las Chicas Magicas poseen Páginas del alma especiales con atributos,pasivas y Paginas de Combate unicos
     </Desc>
   </PassiveDesc>
   <PassiveDesc ID="505521">
-    <Name>Ossified Despair</Name>
+    <Name>Desesperación Osificada</Name>
     <Desc>
-      The Magical Girl of Justice will stand in for the librarian that breaks this statue at the start of the next Scene.
-      If a Magical Girl breaks the statue, the librarian with the lowest current HP will be replaced instead.
-      Magical Girls possess special Key pages with unique stats, passive abilities and Combat Pages.
+      La Chica Magica de la Justicia peleara en lugar del Bibliotecario que rompa esta esta estatua,al comienzo de la siguiente Escena.
+      Si una Chica magica rompe la estatua el Bibliotecario con el HP más bajo sera reemplazado en su lugar
+      Las Chicas Magicas poseen Páginas del alma especiales con atributos,pasivas y Paginas de Combate unicos
     </Desc>
   </PassiveDesc>
   <PassiveDesc ID="505531">
-    <Name>Fossilized Greed</Name>
+    <Name>Avaricia Fosilizada</Name>
     <Desc>
-      The Magical Girl of Happiness will stand in for the librarian that breaks this statue at the start of the next Scene.
-      If a Magical Girl breaks the statue, the librarian with the lowest current HP will be replaced instead.
-      Magical Girls possess special Key pages with unique stats, passive abilities and Combat Pages.
+      La Chica Magica de la Felicidad peleara en lugar del Bibliotecario que rompa esta esta estatua,al comienzo de la siguiente Escena.
+      Si una Chica magica rompe la estatua el Bibliotecario con el HP más bajo sera reemplazado en su lugar
+      Las Chicas Magicas poseen Páginas del alma especiales con atributos,pasivas y Paginas de Combate unicos
     </Desc>
   </PassiveDesc>
   <PassiveDesc ID="505541">
-    <Name>Lapidified Wrath</Name>
+    <Name>Ira Lapidificada</Name>
     <Desc>
-      The Magical Girl of Courage will stand in for the librarian that breaks this statue at the start of the next Scene.
-      If a Magical Girl breaks the statue, the librarian with the lowest current HP will be replaced instead.
-      Magical Girls possess special Key pages with unique stats, passive abilities and Combat Pages.
+     La Chica Magica del Coraje peleara en lugar del Bibliotecario que rompa esta esta estatua,al comienzo de la siguiente Escena.
+      Si una Chica magica rompe la estatua el Bibliotecario con el HP más bajo sera reemplazado en su lugar
+      Las Chicas Magicas poseen Páginas del alma especiales con atributos,pasivas y Paginas de Combate unicos
     </Desc>
   </PassiveDesc>
   <PassiveDesc ID="505561">
-    <Name>Sword without an Owner</Name>
-    <Desc>Targets any character other than the Magical Girl of Justice.</Desc>
+    <Name>Espada Sin Dueño</Name>
+    <Desc>Ataca a cuealquier Personaje que no sea la Chica Magica de la Justicia.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="505600">
-    <Name>A Real Magical Girl</Name>
-    <Desc>At the start of the Scene, draw 3 pages and fully restore Light.</Desc>
+    <Name>Una Verdadera Chica Magica</Name>
+    <Desc>Al comienzo de la Escena,saca 3 paginas y restaura completamente su Luz.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="505611">
-    <Name>Love!</Name>
-    <Desc>Uses a set of unique Combat Pages. After winning 10 clashes in total, the Cost of 'Arcana Slave!' is reduced to 0. (Cost is reset upon using the page)</Desc>
+    <Name>¡Amor!</Name>
+    <Desc>Usa un conjunto unico de Paginas de Combate. Despues de ganar 10 choques en total, el costo de '¡Esclavo Arcana!' es reducido a 0. (el costo es reestablecido al usar la pagina)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="505621">
-    <Name>Justice!</Name>
-    <Desc>Uses a set of unique Combat Pages.</Desc>
+    <Name>¡Justicia!</Name>
+    <Desc>Usa un conjunto unico de Paginas de Combate.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="505631">
-    <Name>Happiness!</Name>
-    <Desc>Uses a set of unique Combat Pages.</Desc>
+    <Name>¡Felicidad!</Name>
+    <Desc>Usa un conjunto unico de Paginas de Combate.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="505641">
-    <Name>Courage!</Name>
-    <Desc>Uses a set of unique Combat Pages.</Desc>
+    <Name>¡Coraje!</Name>
+    <Desc>Usa un conjunto unico de Paginas de Combate.</Desc>
   </PassiveDesc>
 
-  <!-- 게부라 최종 -->
-  <!-- 용병 -->
+  <!-- Lenguaje -->
+  <!--Red riding hood -->
   <PassiveDesc ID="605111">
-    <Name>End of the Nightmare</Name>
-    <Desc>The battle progresses to the next phase if Mercenary Roland finishes off the Wolf; the battle is lost if he dies before the Wolf does.</Desc>
+    <Name>Fin de la pesadilla</Name>
+    <Desc>La batalla es ganada si El Mercenario Roland remata al Lobo ; la batalla es perdida si El Mercenario Roland muere antes que el Lobo.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="605112">
-    <Name>Vengefulness</Name>
-    <Desc>At 50% HP or lower, gain 1 Strength each Scene. (Does not activate during Rage or Astray Rage)</Desc>
+    <Name>Vengativo</Name>
+    <Desc>Cuando este a 50% HP o menos,gana 1 de Fuerza cada Escena. (No se activa durante Ira o Ira sin salida)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="605113">
-    <Name>No Hesitation</Name>
-    <Desc>Uses 'Strike Without Hesitation' every 2 Scenes, targeting all characters.</Desc>
+     <Name>Sin vacilar</Name>
+    <Desc>Utiliza 'Golpe sin Dudarlo' cada 2 Escenas, atacando a todos los personajes.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="605114">
-    <Name>Rage</Name>
-    <Desc>When the Rage meter is filled, enters a state of rage. The Rage meter rises upon taking damage from the Wolf, and decreases upon dealing damage to the Wolf. The screen becomes redder as the Rage meter fills. (Rage: Lasts 2 Scenes. Gain +2 Strength each Scene, and use Mass Attack pages.)</Desc>
+   <Name>Ira</Name>
+    <Desc>Cuando el medidor de ira se llena, Entra en un estado de Furia. El medidor de ira se llena al recibir daño por un ataque de Él Lobo,Y se vacia al hacer daño al Lobo. La panttodosa se tinta de Rojo a medida que el medidor de ira se llena.(Furia: Dura 2 Escenas. Gana +2 Fuerza cada Escena, Y utiliza páginas de Ataque en Masa).</Desc>
   </PassiveDesc>
   <PassiveDesc ID="605115">
-    <Name>Fury with No Outlet</Name>
-    <Desc>If a librarian lands a killing blow on the Wolf, enters an 'Astray Rage' state, then recovers 50% of Max HP and fully recovers Stagger Resist. (Astray Rage: Permanently persists. Gain +4 Strength each Scene, and use Mass Attack pages.)</Desc>
-  </PassiveDesc>
-  <!-- 용병 전투 늑대 -->
+     <Name>Ira sin salida</Name>
+    <Desc>Si un  Bibliotecario atina un golpe letal contra Él Lobo, la anormalidad entra en un estado de  'Ira sin salida',ganando HP adicional y Resistencia al Aturdimiento .Despues, Recupera el 50% de su HP maxima y recupera completamente su Resistencia al Aturdimiento . Ira sin salida: Persiste permanentemente. Gana +5 de Fuerza cada Escena, y utiliza páginas de Ataque en Masa.</Desc>
+  <!-- Lobo de sus pesadillas -->
   <PassiveDesc ID="605120">
-    <Name>Sharp Claws</Name>
-    <Desc>Inflict 1 Scars to target on hit. Deal bonus damage equal to stacks of Scars on target. Dice gain +2 Power against targets with 4 or more Scars.</Desc>
+    <Name>Garras Afiladas</Name>
+    <Desc>Infringe 1 Cicatriz al golpear. Infringe daño extra igual a las Cicatrices en el objetivo.Sus dados ganan 2 de Poder contra objetivos con 4 o más Cicatrices.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="605121">
-    <Name>Roaring Wolf</Name>
-    <Desc>While HP is higher than 50%, uses a Mass Attack page, 'Howl', every 4 Scenes.</Desc>
+    <Name>Lobo Rugiente</Name>
+    <Desc>Mientras su HP sea mayor a 50%, Usa una Página de Combate en Masa, 'Aullido' cada 4 Escenas.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="605122">
-    <Name>Howling Nightmare</Name>
-    <Desc>When HP falls to 50% or lower, gains 2 Speed dice and uses 'Howl' every 2 Scenes.</Desc>
+    <Name>Pesadillas Aullantes</Name>
+    <Desc>Cuando su HP cae a 50% o menos, gana 2 dados de Velocidad y usa 'Aullido' cada 2 Escenas.</Desc>
   </PassiveDesc>
 
-  <!-- 커다랗고 나쁠 늑대 -->
+  <!-- Grande y podría ser Lobo Malo -->
   <PassiveDesc ID="605211">
-    <Name>The Role of the Wolf</Name>
-    <Desc>On combat start, swallows a random assistant librarian. If the swallowed librarian escapes or gets digested, swallows another librarian after 2 Scenes.</Desc>
+    <Name>El Rol del Lobo</Name>
+    <Desc>Al comienzo del combate, traga un  Bibliotecario Asistente. Si el Bibliotecario tragado escapa o es digerido,traga otro Bibliotecario luego de 2 Escenas.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="605212">
-    <Name>Hour of Poetic Justice</Name>
-    <Desc>After swallowing a librarian, temporarily double Max Stagger Resist and fully recover it; then all Stagger damage resistances change to "Fatal" for the next Scene. The number of Speed dice change, and different Combat Pages will be used. If Wolf Roland is Staggered within the Scene, expel the captive librarian.</Desc>
+    <Name>Hora de la Justicia Poetica</Name>
+    <Desc>Luego de tragar un bibliotecario,temporarlmente dobla la resistencia al aturdimiento maxima y la recupera por completo; entoces todas las resistencias al aturdimiento cambian a "Fatal" por la siguiente Escena.El numero de dados de velocidad cambia,y diferentes Paginas de Combate seran usadas. Si el Lobo Roland es aturdido en esta Escena,expulsa al Bibliotecario cautivo.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="605213">
-    <Name>Sheep’s Skin</Name>
-    <Desc>The librarian that was swallowed loses 25% of their Max HP upon being expelled and becomes Staggered.</Desc>
+    <Name>Piel de oveja</Name>
+    <Desc>El bibliotecario tragado pierde 25% de su HP y es Aturdido al ser expulsado.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="605214">
-    <Name>Instincts</Name>
-    <Desc>If Wolf Roland does not get Staggered after the Scene it swallows a librarian, the librarian is killed.</Desc>
+    <Name>Instintos</Name>
+    <Desc>Si el Lobo Roland no es Aturdido en la escena siguiente de haber tragado un Bibliotecario, el Bibliotecario es asesinado.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="605215">
-    <Name>Destined to be the Big Bad Wolf</Name>
-    <Desc>If two librarians have been consumed and digested, transform. Also transforms if HP is at 50% or lower at the start of a Scene. HP does not fall below 50% before transforming.</Desc>
+    <Name>Destinado a ser un Lobo Malo</Name>
+    <Desc>Si dos bibliotecario han sido tragados y digeridos,se transforma. Tambien se transforma si el HP esta a 50% o menos al comienzo de la Escena. Su HP no baja del 50% antes de transformarse.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="605221">
-    <Name>Transform</Name>
-    <Desc>Upon transforming, Max Stagger Resist increases, and Stagger Resist is recovered to full.</Desc>
+    <Name>Transformación</Name>
+    <Desc>Al transformarse,su Resistencia al daño aturdido aumenta y es recuperada por completo.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="605222">
-    <Name>Into the Dark</Name>
-    <Desc>After the character loses 25% or more of the HP it had at the point of transformation, gain the 'Skulking in the Shadows' status for the next 2 Scenes.</Desc>
+    <Name>En las Sombras</Name>
+    <Desc>Luego de perder 25% de HP o más de la que tenia al transformarse,gana el estado de 'Acechando en las sombras'por las siguiente 2 Escenas.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="605223">
-    <Name>Shadowy Lurker</Name>
-    <Desc>While the character has the 'Skulking in the Shadows' status, librarians other than the ones targeted by the character cannot target it.</Desc>
+    <Name>Acechador Sombrio</Name>
+    <Desc>Mientras el Personaje tiene el esttado de'Acechando en las sombras', Ningun otro Bibliotecario ademas del atacado por el personaje puede atacar a este .</Desc>
   </PassiveDesc>
   <PassiveDesc ID="605224">
-    <Name>Weariness</Name>
-    <Desc>After 'Skulking in the Shadows' wears off, uses a Mass Attack page, 'Howl'; all Stagger damage resistances change to "Fatal" for the Scene.</Desc>
+    <Name>Cansancio</Name>
+    <Desc>Despues de que 'Acechando en las sombras' se agota, Usa una Página de Combate en Masa, 'Aullido';Todas las resistencias al daño aturdidor cambian a "Fatal" por la Escena.</Desc>
   </PassiveDesc>
 
-  <!-- 웃시산 -->
+  <!--Mountain of Smiling Bodies(Montaña de Cuerpos Sonrientes)-->
   <PassiveDesc ID="605301">
-    <Name>In Search of Corpses</Name>
-    <Desc>Uses Combat Pages other than 'Horrid Screech' and 'Vomit' indiscriminately. Recovers 30% of current HP upon defeating an ally.</Desc>
+    <Name>En busca de Cadaveres</Name>
+    <Desc>Usa Paginas de Combate ,que no sean 'Horrid Screech' y 'Vomit', Indiscriminadamente.Recupera 30% del HP actual al derrotar un aliado.</Desc>
   </PassiveDesc>
     <PassiveDesc ID="605302">
-    <Name>Melted Corpses</Name>
-    <Desc>Each time the character loses more than 25% of the Max. HP (62/87/112), 'Melting Corpses' is spawned at the start of the next Scene.</Desc>
+    <Name>Cadaveres Derretidos</Name>
+    <Desc>Cada vez que el Personaje pierde 25% de su HP maxima (62/87/112),'Cadaveres Derretidos' Apareceran al comienzo de la siguiente Escena.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="605311">
-    <Name>Dividing</Name>
-    <Desc>Divides into corpses when HP drops to 0. If all corpses are defeated within 3 Scenes, the battle progresses to the next phase. Otherwise, the character revives as Stage 1. (Upon revival, it will recover HP by the sum of the HP all remaining Melting Corpses had.)</Desc>
+    <Name>Divisible</Name>
+    <Desc>Se divide en cadaveres cuando el HP cae a 0. Si todos los cadaveres son derrotados en 3 Escenas,la batalla es ganada.De otra forma, La anormalidad revive en la Etapa 1. (Al revivir, Recupera HP equivalente a la suma del HP de todos los 'Cadaveres Derretidos'.)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="605312">
-    <Name>Growing Mass</Name>
-    <Desc>Transforms to Stage 2 upon fully recovering HP.</Desc>
+    <Name>Masa Cresciente</Name>
+    <Desc>Se transforma en la etapa 2 al recuperar toda la HP.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="605321">
-    <Name>Divisible Yet Addable</Name>
-    <Desc>Transforms back to Stage 1 when HP drops to 0. Transforms to Stage 3 upon fully recovering HP.</Desc>
+    <Name>Divisible pero Todavia Sumable</Name>
+    <Desc>Se transforma de vuelta a la Etapa 1	si su HP llega a 0. Se transforma a la Etapa 3 si su HP se recupera completamente.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="605322">
-    <Name>Terrifying Laughter</Name>
-    <Desc>At the start of the Scene, gain 1 Strength. Uses 'Horrid Screech' every 2 Scenes.</Desc>
+    <Name>Risa Terrorifica</Name>
+    <Desc>Al comienzo de la Escena, Gana 1 de Fuerza.Usa "Chillido Horrible" cada 2 Escenas.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="605331">
     <Name>Division</Name>
-    <Desc>Transforms back to Stage 2 when HP drops to 0.</Desc>
+    <Desc>Se Transoforma de vuelta a la Etapa 2 si su HP cae a 0.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="605332">
-    <Name>Putrid Vomit</Name>
-    <Desc>At the start of the Scene, gain 2 Strength. Uses 'Vomit' every 2 Scenes.</Desc>
+    <Name>Vomito putrido</Name>
+    <Desc>Al comienzo de la Escena, Gana 2 de Fuerza. Usa "Vomito" cada 2 Escenas.</Desc>
   </PassiveDesc>
+    <!--Melting Corpses(Cuerpos Derretidos)-->
   <PassiveDesc ID="605341">
-    <Name>Rot</Name>
-    <Desc>Upon taking a hit, deal 8 damage to the librarian that attacked it and inflict 1 Fragile to them.</Desc>
+  <Name>Putrefaccion</Name>
+    <Desc> Al recibir un golpe,Infringe 8 de Daño al Bibliotecario que lo ataco y les da 1 de Fragíl.</Desc>
   </PassiveDesc>
 
-  <!-- 노스페라투 -->
+	<!--Nosferatu-->
   <PassiveDesc ID="605411">
-    <Name>Fear of Water</Name>
-    <Desc>If the character has less than 5 Blood, gain Strength proportional to the amount of Blood missing. (Up to 3)</Desc>
+    <Name>Miedo al Agua</Name>
+    <Desc>Si el Personaje tiene menos de 5 Sangre, Gana Fuerza proporcional a la sangre faltante.(Hasta 3)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="605412">
-    <Name>Thirst</Name>
-    <Desc>If the character has 2 or less Blood, uses a special Combat Page. (Has a 2 Scene cooldown.)</Desc>
+    <Name>Sed</Name>
+    <Desc>Si el Personaje tiene 2 o menos de Sangre, Usa una página de Combate especial.(Tiene un enfriamiento de 2 Escenas.)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="605413">
-    <Name>Banquet of Blood</Name>
+   <Name>Banquete de Sangre</Name>
     <Desc>
-      If the character has 5 or more Blood, uses a Mass Attack page: 'Banquet of Blood'. (Has a 3 Scene cooldown.)
-      If the character did not use the page for the first 4 Scenes of the phase, it will be used on the 5th Scene.
+    <Desc>Si el Personaje tiene 5 o más Sangre,usa una página de Ataque en Masa: 'Banquete de Sangre'.(Tiene un enfriamiento de 3 Escenas.)
+          Si el Personaje no uso la pagina durante las primeras 4 Escenas del combate,esta sera usada en la 5ta Escena</Desc>
     </Desc>
   </PassiveDesc>
   <PassiveDesc ID="605414">
-    <Name>Shapeshifting</Name>
+   <Name>Cambiaforma</Name>
     <Desc>
-      If HP falls to 50% or lower, shapeshift next Scene. HP does not go below 50% before this.
-      Upon shapeshifting, defeat all Sanguine Bats and gain 5 Blood.
+     Si el HP cae a 50% o más, Cambia de forma la siguiente Escena.El HP no baja del 50% antes de esto.
+     Al cambiar de forma,mata a todos los "Murciélagos Sanguínarios" y gana 5 de Sangre.
     </Desc>
   </PassiveDesc>
   <PassiveDesc ID="605431">
-    <Name>Shapeshifting</Name>
-    <Desc>Upon shapeshifting, defeat all Sanguine Bats and gain 5 Blood.</Desc>
+    <Name>>Cambiaforma</Name>
+    <Desc>  Al cambiar de forma,mata a todos los "Murciélagos Sanguínarios" y gana 5 de Sangre.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="605432">
-    <Name>Fear of Water</Name>
-    <Desc>If the character has less than 5 Blood, gain Strength proportional to the amount of Blood missing. (Up to 3)</Desc>
+   <Name>Miedo al Agua</Name>
+     <Desc>Si el Personaje tiene menos de 5 Sangre, Gana Fuerza proporcional a la sangre faltante.(Hasta 3)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="605433">
-    <Name>Flowing Blood</Name>
-    <Desc>At the start of the Scene, lose 1 Blood.</Desc>
+   <Name>Sangre Fluyendo</Name>
+    <Desc>Al comienzo de la Escena, Pierde 1 de Sangre.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="605434">
-    <Name>Unbearable Drought</Name>
-    <Desc>If the character has 2 or less Blood, uses a special Combat Page. (Has a 2 Scene cooldown.)</Desc>
+    <Name>Sequia insoportable</Name>
+    <Desc>Si el Personaje tiene 2 o menos de Sangre, Usa una página de Combate especial.(Tiene un enfriamiento de 2 Escenas.)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="605435">
-    <Name>Lust for Blood</Name>
+     <Name>Lujuria por la Sangre</Name>
     <Desc>
-      If the character has 0 Blood, uses a Mass Attack page: 'Lust for Blood'. (Has a 3 Scene cooldown.)
-      If the character did not use the page for 3 Scenes after shapeshifting, it will be used on the 4th Scene.
+    <Desc>Si el personaje tiene 0 de Sangre,usa la página de Ataque en Masa: 'Lujuria por la Sangre'.(Tiene un enfriamiento de 3 Escenas).
+          Si el Personaje no uso la página por 3 Escenas luego de Cambiar de Forma,Sera usado en la 4ta Escena.</Desc>
     </Desc>
   </PassiveDesc>
   <PassiveDesc ID="605421">
-    <Name>Fear of Water</Name>
-    <Desc>If the character has 1 or less Blood, gain 2 Strength.</Desc>
+    <!--Murcielago Sanguino(Sanguine Bat)-->
+      <Name>Miedo al Agua</Name>
+    <Desc>Si el personaje tiene 1 o menos Sangre,gana 2 de Fuerza.</Desc>
   </PassiveDesc>
 
 
-  <!-- 아무것도 없는 -->
+  <!-- Nothing There -->
   <PassiveDesc ID="605511">
-    <Name>Shell</Name>
-    <Desc>Every 2 Scenes, uses the Combat Page 'Wear Shell' on a random assistant librarian.</Desc>
+    <Name>Caparazon</Name>
+    <Desc>Cada 2 Escenas, usa la Página de Combate 'Vestir Caparazon' en un Bibliotecario Asistente aleatorio.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="605512">
-    <Name>Evolving</Name>
-    <Desc>If HP reaches 0, morphs into its second form at the start of the next Scene.</Desc>
+    <Name>Evolucionando</Name>
+    <Desc>Si el HP llega a 0 cambia a su segunda forma la siguiente Escena.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="605521">
-    <Name>Still Evolving</Name>
-    <Desc>After 2 Scenes pass, evolve into the third form. The HP of the third form depends on the amount of HP this current form has left at the moment of evolution. (Min. 70% of Max. HP)</Desc>
+    <Name>Todavia Evolucionando</Name>
+    <Desc>Despues de pasar 2 Escenas, Evoluciona a su tercera forma.El HP de esta forma depende de la cantidad de HP que le quedara al momento de su evolucion.(Min.70% del HP Max.)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="605522">
-    <Name>Regenerative</Name>
-    <Desc>At the start of the Scene, recover 50% of Max. HP.</Desc>
+    <Name>Regenerativo</Name>
+    <Desc>Al comienzo de la Escena, Recupera 50% de su HP maxima.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="605531">
-    <Name>Hardness</Name>
-    <Desc>Ignores instances of damage that would deal 10 or less.</Desc>
+    <Name>Dureza</Name>
+    <Desc>Ignora instancias de daño igual o menores a 10.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="605532">
-    <Name>Regenerative</Name>
-    <Desc>If the character took 80 or less damage within a Scene, recovers 10% of Max. HP at the end of the Scene.</Desc>
+    <Name>Regenerativo</Name>
+    <Desc>Si el Personaje recibio 80 o menos de daño en esta Escena,recupera 10% des HP maxima al final de la Escena.</Desc>
   </PassiveDesc>
-
-  <!-- Chesed -->
-  <!-- 헤세드 보스전-->
-  <!-- 허수아비-->
+   <!-- Estudios Sociales -->
+  <!-- Espantapajaros buscando por sabiduria(Scarecrow searching for wisdom) -->
   <PassiveDesc ID="705111">
-    <Name>Bountiful Crop</Name>
-    <Desc>Prioritizes the target with the most copies of 'Wisdom' in hand. Dice gain Power equal to the number of 'Wisdoms' in target's hand.</Desc>
+    <Name>Cultivo Abundante</Name>
+    <Desc>Prioriza al objetivo con la mayor cantidad de copias de 'Sabiduria'en mano.Sus dados ganan Poder igual al numero de 'Sabiduria' en mano.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="705112">
-    <Name>Harvest</Name>
-    <Desc>Uses a powerful Combat Page every 3 Scenes.</Desc>
+    <Name>Cosecha</Name>
+    <Desc>Usa una poderosa Página de Combate Cada 3 Escenas.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="705121">
-    <Name>Gleaning Sagacity</Name>
-    <Desc>Every 3 Scenes, gains an additional Speed die and uses the page 'Harvest Wisdom', which absorbs the target's Combat Page and recovers the user's HP on hit. If the target has no Combat Pages left to absorb, deals bonus damage (5~20) instead.</Desc>
+    <Name>Espigado Sagaz</Name>
+    <Desc>Cada 3 Escenas, Gana un Dado de Velocidad y usa la página 'Cosechar Sabiduría',La cual absorbe La página de Combate del objetivo al golpear y recupera el HP del usuario. Si el objetivo no tiene páginas de Combate por absorber recibe (5~20) daño adicional en su lugar.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="705122">
-    <Name>Tranquility of the Wise</Name>
-    <Desc>If 'Harvest Wisdom' clashes against 'Wisdom', the harvester (user) takes 20 Stagger damage at the end of the engagement, and gains 3 Feeble and Bind next Scene.</Desc>
+    <Name>Tranquilidad de los Sabios</Name>
+  <Desc>Si 'Cosechar Sabiduría' Choca contra 'Sabiduría', La anormalidad recibe 20 de daño aturdidor Al final del encuentro, Y gana 3 de Debilidad e Atadura la siguiente Escena.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="705123">
-    <Name>Cerebral Endeavor</Name>
-    <Desc>After absorbing a page that isn't 'Wisdom' with 'Harvest Wisdom', gain Strength and Endurance equal to the number of pages absorbed, and use one of the absorbed pages.</Desc>
+    <Name>Empeño Cerebral</Name>
+    <Desc>Luego de absorber una página que no sea'Sabiduría' Con 'Cosechar Sabiduría', Fuerza y aguante por cada página absorbida,Y usa una de esas páginas.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="705124">
-    <Name>Straw for Brains</Name>
-    <Desc>At the start of the Scene, all librarians who own no pages become Staggered.</Desc>
+    <Name>Cerebro de paja</Name>
+    <Desc>Al comienzo de la Escena, todos los Bibliotecarios que no tengan páginas quedan Aturdidos.</Desc>
   </PassiveDesc>
 
-  <!-- 나무꾼 -->
+  <!-- Leñador de Buen Corazón (Warm-Hearted Woodsman) -->
   <PassiveDesc ID="705211">
-    <Name>Dense Forest</Name>
-    <Desc>All librarians restore Light to max for the duration of the phase.</Desc>
+    <Name>Bosque Denso</Name>
+    <Desc>Todos los Bibliotecarios Restauran Luz al maximo por la duracion de la fase.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="705212">
-    <Name>Still Not Enough</Name>
+    <Name>Aun no es suficiente</Name>
     <Desc>
-      Each Scene, targets the character with the most Light.
-      When attacking, all dice gain Power equal to the amount of Light the target has.
+  Cada Escena,Prioriza al personaje con mayor Luz.
+    Al atacar gana Poder igual a la cantidad de Luz del objetivo.
     </Desc>
   </PassiveDesc>
   <PassiveDesc ID="705213">
-    <Name>A Warm Heart</Name>
-    <Desc>At the start of the Scene, restore Light equal to the amount of Warm Hearts. Lose 1 stack of Warm Heart at the end of the Scene.</Desc>
+    <Name>Buen corazón</Name>
+    <Desc>Al comienzo de la Escena, Restaura Luz igual a la cantidad de Buenos Corazones que tiene.Pierde una acumulacion de 'Buen Corazón' al final de la Escena.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="705214">
-    <Name>I Want a Heart</Name>
-    <Desc>At the start of the Scene, if the amount of Warm Hearts is 0, target the Tree with the lowest HP.</Desc>
+    <Name>Quiero un Corazón</Name>
+    <Desc>Al comienzo de la Escena,si la cantidad de 'Buen Corazón' es 0,ataca al arbol con el menor HP.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="705215">
-    <Name>Pulsing Ticker</Name>
-    <Desc>Upon defeating another character, recover 20% of Max HP and gain 3 stacks of Warm Heart.</Desc>
+    <Name>Corazón Palpitante</Name>
+    <Desc>Al derrotar otro Personaje, Recupera 20% de su HP maxima y gana 3 acumulaciones de 'Buen Corazón'.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="705216">
-    <Name>Empty Chest</Name>
+ <Name>Descorazonado</Name>
     <Desc>
-      If the character has no Warm Heart for 2 Scenes, becomes Staggered at the start of the next Scene.
-      Cull a Tree with the lowest HP when recovering from Stagger.
+      Si el Personaje no tiene un 'Buen corazon' por 2 Escenas,es Aturdido al comienzo de la siguiente Escena.
+      Corta el arbol con el menor HP al recuperarse.
     </Desc>
   </PassiveDesc>
 
-  <!-- 집으로 가는 길-->
+ <!--The Road Home(El Camino a Casa)-->
   <PassiveDesc ID="705311">
-    <Name>On the Way Home</Name>
-    <Desc>Spawns the 'Home' when the phase starts, and uses a Mass Attack page that applies 'Yellow Brick Road' to the 'Home' and two librarians.</Desc>
+    <Name>En Camino a Casa</Name>
+    <Desc>Aparece el 'Hogar' cuando la fase Comienza, y Usa una Página de Combate en Masa que aplica 'Camino de Ladrillo Amarillos' al 'Hogar' Y a dos Bibliotecarios.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="705312">
-    <Name>Friends! Let’s Go Home~!</Name>
-    <Desc>On the second Scene, uses the Combat Page 'Friends! Let’s Go Home~!' targeting the 'Home' and the librarians with 'Yellow Brick Road'. 
-If the Combat Page hits 'Home', the battle is lost.
-The attack on the 'Home' is canceled if all librarians with 'Yellow Brick Road' win the clash against 'Friends! Let’s Go Home~!'.</Desc>  </PassiveDesc>
+      <Name>¡Amigos! ¡Vamos a Casa~!</Name>
+     <Desc>En la segunda Escena, usa la página de Combate '¡Amigos! ¡Vamos a Casa~!' Atacando a la 'Casa' y a los Bibliotecarios con 'Camino de Ladrillo Amarillos'. 
+Si la página de Combate golpea la 'Casa',La batalla es perdida.
+El ataque hacia la 'Casa' es cancelado si todos los Bibliotecarios con 'Camino de Ladrillo Amarillos' Ganan el choque con '¡Amigos! ¡Vamos a Casa~!'.</Desc>
   <PassiveDesc ID="705313">
-    <Name>You… Gosh Darned Wizard…!</Name>
+   <Name>¡Tú…Maldito Mago…!</Name>
     <Desc>
-      After the character's attack towards 'Home' has been canceled twice, all resistances change to "Fatal", and uses a powerful Mass Attack the following Scene.
-      If any librarian is hit by the attack, the 'Home' is spawned next Scene.
-      If no librarian is damaged by the attack, the character becomes Staggered next Scene, and the 'Home' is spawned the Scene after the Stagger.
+      Luego de que el ataque del Personaje contra el 'Hogar' es cancelado 2 veces todas las resistencias cambian a "Fatal", y usa un poderoso ataque en Masa la siguiente Escena.
+      Si cualquier Bibliotecario es golpeado por el ataque,el 'Hogar' aparecera la siguiente Escena.
+      Si ningun Bibliotecario es dañado por el ataque,el Personaje es Aturdido la siguiente Escena,y el 'Hogar' aparecera la siguiente Escena del aturdimiento.
     </Desc>
   </PassiveDesc>
+     <!--Scaredy Cat(Gato Asustadizo)-->
   <PassiveDesc ID="705321">
-    <Name>Courageous</Name>
-    <Desc>Is immune to all types of damage until 'The Road Home' dies.</Desc>
+    <Name>Temerario</Name>
+    <Desc>Es inmune a todos los tipos de daño hasta que'El Camino a Casa' Muere.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="705322">
-    <Name>Cowardly</Name>
-    <Desc>Once 'The Road Home' dies, all resistances change to "Fatal", and Max HP is reduced. The number of Speed dice and Combat Pages also change.</Desc>
+    <Name>Cobarde</Name>
+    <Desc>Una vez que 'El Camino a Casa' muere, todas sus resistencias cambian a 'Fatal',Y su HP maxima es reducida. El numero de dados de Velocidad tambien cambian,junto con las páginas de Combate.</Desc>
   </PassiveDesc>
 
-  <!-- 오즈마-->
-  <!-- 오즈마-->
+  <!-- Ozma-->
   <PassiveDesc ID="705411">
-    <Name>Revive</Name>
-    <Desc>On the first Scene, uses Combat Pages that awaken all Jacks and inflict Oblivion on a librarian. Afterwards, follows a unique pattern of behavior that cycles every 4 Scenes.</Desc>
+   <Name>Revivir</Name>
+   <Desc>En la primera Escena, Usa una página de Combate que despierta a todos los Jacks e infringe Olvido a un Bibliotecario. Despues,sigue un unico patron de comportamiento que cicla cada 4 Escenas.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="705412">
-    <Name>Agony of the Deprived</Name>
-    <Desc>After a librarian with Oblivion is restored from the status, all resistances of this character change to "Fatal" at the start of the next Scene, and uses a Mass Attack page. Repeats the pattern afterwards.</Desc>
+  <Name>Agonia De los Deprivados</Name>
+  <Desc>Despues de que un Bibliotecario con Olvido es restaurado de este estatus, todas las resistencias de este Personaje cambian a 'Fatal' al comienzo de la siguiente Escena,y usa una página de Ataque en Masa.Despues repite este patron.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="705413">
-    <Name>Grief of the Deprived</Name>
-    <Desc>After 2 cycles have passed, all Stagger damage resistances of this character change to "Fatal" at the start of the next Scene, and uses an extremely powerful Mass Attack page.</Desc>
+  <Name> El Pesar de los Deprivados</Name>
+  <Desc>Luego de que 2 ciclos hayan pasado, todas las resistencias al Aturdimiento cambian a 'Fatal' al comienzo de la siguiente Escenas, y usa una página de Ataque en Masa extremadamente poderosa.</Desc>
   </PassiveDesc>
-  <!--잭-->
+  <!--Jack-->
   <PassiveDesc ID="705421">
-    <Name>Stolen Power</Name>
-    <Desc>Uses the Combat Pages of the librarian with Oblivion.</Desc>
+    <Name>Poder Robado</Name>
+    <Desc>Usa las páginas de Combate del Bibliotecario con Olvido.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="705422">
-    <Name>Who’s the Real Deal?</Name>
-    <Desc>
-      Only one of the Jacks that awaken is real; the rest are fakes.
-      Whenever a librarian with Oblivion hits the real Jack, it gives back a Combat Page that was stolen from them.
-      The screen blinks when the real Jack is hit.
-    </Desc>
+    <Name>¿Quien es el verdadero?</Name>
+   <Desc>Solo uno de los Jacks es real;el resto son falsos.
+Cuando un Bibliotecario con Olvido golpea al verdadero Jack, le devuelve una página de Combate que le fue robada.
+La pantalla parpadea cuando el verdadero Jack es golpeado.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="705423">
-    <Name>Steal or be Stolen</Name>
-    <Desc>
-      After the librarian with Oblivion hits the real Jack 9 times, all Jacks die.
-      If the condition isn't fulfilled within 3 Scenes of Oblivion being applied, the librarian with the status is turned into a pumpkin next Scene.
-      Afterwards, the real Jack transforms into 'Jack Revived', and permanently uses the Key page and Combat Pages of the librarian that had Oblivion.
-    </Desc>
+  <Name>Robar o Ser Robado</Name>
+  <Desc>Luego de que el Bibliotecarios con Olvido golpee al Jack verdadero 9 veces, Todos los Jack mueren.
+Si la condicion no es cumplida luego de que 3 Escenas hayan pasado de aplicar Olvido,el Bibliotecario con el status es transformado en una calabaza la siguiente Escena.
+Despues, El verdadero Jack se transforma en 'Jack Resucitado',y permanentemente utiliza las páginas de Combate del Biblliotecario que tenia Olvido.</Desc>
   </PassiveDesc>
-
-
-  <!-- 거짓을 말하는 어른-->
-  <!-- 마법사 공통-->
+  <!-- Trono Falso(False Throne)-->
   <PassiveDesc ID="705510">
-    <Name>The Wizard's Trial</Name>
+    <Name>Las Pruebas del Mago</Name>
     <Desc>
-      Five phases play out in a set order. If all five phases have been passed, proceed to the 'Anger' phase.
-      Is immune to Stagger damage before The Road Home's phase starts. Is immune to physical damage before the Anger phase starts.
+      Cinco fases tienen lugar en cierto orden.Si todas las cinco fases son pasadas,procede a la fase de'Colera'
+      Es inmune al daño aturdidor antes de la fase del 'Camino a casa' comience.Es inmune al daño fisico antes de que la fase de 'Colera' comience.
     </Desc>
   </PassiveDesc>
   <!-- 마법사 1막-->
   <PassiveDesc ID="705511">
-    <Name>The Trial Commences</Name>
+    <Name>La Prueba comienza</Name>
     <Desc>
-      When the phase begins, dead librarians come back to life with full HP.
-      Add 5 special Combat Pages to the hands of all librarians. The following phases can be overcome using their special powers.
+Cuando la fase comienza,Los Bibliotecarios muertos vuelven a la vida con el HP lleno.
+     añade 5 paginas Paginas de Combate especiales a las manos de todos los Bibliotecarios. Las siguietne fases pueden ser superadas usando sus poderes especiales.
     </Desc>
   </PassiveDesc>
   <!-- 마법사 2막-->
   <PassiveDesc ID="705512">
-    <Name>Show Me Your Warm Heart</Name>
+    <Name>Muestrame tu 'Buen Corazón'</Name>
     <Desc>
-      Limits the amount of Light of all librarians other than the one with the Woodsman's status.
-      If all 'Emerald Crystals' are destroyed within 2 Scenes, proceed to the Scarecrow's phase next Scene.
+     Limita la luz de todos los Bibliotecarios exepto del que tenga el estado de 'Leñador'.
+     Si todos los 'Cristales Esmeralda' son destruidos en 2 Escenas, procede a la fase del Espantapajaros la siguiente Escena.
     </Desc>
   </PassiveDesc>
   <PassiveDesc ID="705513">
-    <Name>How Hollow a Heart</Name>
-    <Desc>If the 'Emerald Crystals' are not destroyed within 2 Scenes, a Mass Attack page is used before proceeding to the Scarecrow's phase.</Desc>
+    <Name>Que Corazón Más Hueco</Name>
+    <Desc>Si los 'Cristales Esmeralda' no son destruidos en 2 Escenas, usa una Página de Combate en Masa antes de procedeer a la fase del espantapajaros.</Desc>
   </PassiveDesc>
   <!-- 마법사 3막-->
   <PassiveDesc ID="705514">
-    <Name>Show Me Your Wisdom</Name>
+    <Name>Muestrame tu Sabiduria</Name>
     <Desc>
-      Turn all librarians other than the one with the Scarecrow's status into 'Shining Statues'.
-      A copy of 'Wisdom' and 4 special Combat Pages are added to the Scarecrow librarian's hand.
-      Proceed to the Cat's phase next Scene.
+      Convierte a todos los bliotecarios exepto al que tenga el estado de 'Espantapajaros' en 'Estatuas Brillantes'
+      Una copia de 'Sabiduria' y 4 Paginas de Combate especiales son añadidas a la mano del Bibliotecario Espantapajaros.
+      Procede a la fase del Gato la siguiente Escena.
     </Desc>
   </PassiveDesc>
   <PassiveDesc ID="705515">
-    <Name>What Worthless Wisdom</Name>
-    <Desc>If the librarians aren't restored to their true forms by the end of the Scene, reduce the number of Speed dice of the Scarecrow librarian to 1.</Desc>
+    <Name>Que sabiduria más pobre</Name>
+    <Desc>Si los Bibliotecarios no son restaurados a sus formas originales al final de la Escena,reduce el numero de dados de Velocidad deli bibliotecario Espantapajaros a 1.</Desc>
   </PassiveDesc>
   <!-- 마법사 3막-->
   <PassiveDesc ID="705516">
-    <Name>Show Me Your Courage</Name>
+    <Name>Muestrame tu Coraje</Name>
     <Desc>
-      Inflict all librarians with 10 Feeble, Disarm, and Fragile for 2 Scenes.
-      If all 'Scowling Faces' are defeated, proceed to The Road Home's phase the following Scene.
+      Infringe a todos los Bibliotecarios con 10 de Débilidad,Desarme y Fragil por 2 Escenas.
+      Si todos los 'Rostros Fruncidos' son derrotados procede a la fase del 'Camino a Casa' en la siguiente Escena.
     </Desc>
   </PassiveDesc>
   <PassiveDesc ID="705517">
-    <Name>Twas Certain of Catly Cowardice</Name>
-    <Desc>If a librarian other than the one with the Cat's status gets hit, the Cat librarian is inflicted with 5 Feeble, Disarm, and Fragile until the end of battle.</Desc>
+    <Name>Tenia la Certeza de la Cobardia Gatuna</Name>
+    <Desc>Si un Bibliotecario que no tenga el estado de 'Gato' es golpeado,el Bibliotecario gatuno es infringido con 5 de Débilidad,Desarme y Fragil hasta el final de la batalla.</Desc>
   </PassiveDesc>
   <!-- 마법사 4막-->
   <PassiveDesc ID="705518">
-    <Name>What Could You Do?</Name>
-    <Desc>Upon becoming Staggered, proceed to the Anger phase the following Scene.</Desc>
+    <Name>¿Que Podrias Hacer?</Name>
+    <Desc>Al ser Aturdido,procede a la fase de 'colera' la siguiente Escena.</Desc>
   </PassiveDesc>
   <!-- 마법사 4막-->
   <PassiveDesc ID="705519">
-    <Name>Anger</Name>
-    <Desc>If the character's HP reaches 0 or is transformed into a different being, the battle is won.</Desc>
+    <Name>Colera</Name>
+    <Desc>Si el HP del personaje baja a 0 o es transformado en un ente diferente la batalla es ganada.</Desc>
   </PassiveDesc>
   <!-- 마법사 2막 수정-->
   <PassiveDesc ID="705521">
-    <Name>Crystal Containing Light</Name>
-    <Desc>Deals 8 physical and Stagger damage to the attacker. When destroyed, the 1-Light capacity limit is lifted from a librarian.</Desc>
+    <Name>Cristal Contenedor de Luz</Name>
+    <Desc>Infringe 8 de daño fisico y aturdidor al atacante.Al ser destruido el limite de 1-Luz maxima es levantado de un Bibliotecario.</Desc>
   </PassiveDesc>
   <!-- 마법사 2막 당나귀-->
   <PassiveDesc ID="705531">
-    <Name>Shattering Emerald</Name>
-    <Desc>If not restored to their true form until the end of the Scene, take damage equal to 80% of current HP.</Desc>
+    <Name>Esmeralda Quebradiza</Name>
+    <Desc>Si no es restaurado a su verdadera forma al final de la Escena,recibe daño igual al 80% de su HP actual.</Desc>
   </PassiveDesc>
 
 
   <!-- Binah 비나 최종전 -->
-  <!-- 큰새 -->
+  <!--Pajaro Grande -->
   <PassiveDesc ID="805111">
-    <Name>A Lamp that Burns Forever</Name>
-    <Desc>Starting with the first Scene, inflicts a random assistant librarian with 'Enchanted' every 3 Scenes. More librarians are affected with subsequent occurrences (1-2-2-3).</Desc>
+    <Name>La Lampara que Arde por Siempre</Name>
+    <Desc>Desde the first Escena, inflicts a random assistant Bibliotecario with 'Enchanted' cada 3 Escenas. Más Bibliotecarios son afectados con el paso de las Escenas(1-2-2-3).</Desc>
   </PassiveDesc>
   <PassiveDesc ID="805112">
-    <Name>Darkness</Name>
-    <Desc>Starting with the third Scene, uses the Combat Page 'Darkness' every 3 Scenes.</Desc>
+    <Name>Oscuridad</Name>
+    <Desc>Desde la tercera Escena, usa la Página de Combate 'Oscuridad' cada 3 Escenas.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="805113">
-    <Name>Sleepy Eyes</Name>
-    <Desc>Each time an ally is defeated, permanently gain 5 Feeble and Disarm. When all allies die, all Stagger damage resistances change to "Fatal".</Desc>
+    <Name>Ojos Somnolientos</Name>
+    <Desc>Cada vez que un aliado es derrotado,permanentemente gana 5 de Debilidad y Desarme.Cuando todos los aliados mueren,todas las Resistencias al Aturdimiento cambian a 'Fatal'.</Desc>
   </PassiveDesc>
-
-  <!-- 작은새 -->
+<!--Punnishing Bird(Pájaro Castigador)-->
   <PassiveDesc ID="805211">
-    <Name>Misdeeds Not Allowed!</Name>
-    <Desc>Offensive dice gain +50 Power when clashing against Offensive dice</Desc>
+    <Name>¡Las Fechorias no están permitidas!</Name>
+    <Desc>Gana +50 de Poder cuando choca contra un dado Ofensivo.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="805212">
-    <Name>They Must Be Punished!</Name>
-    <Desc>If the character takes damage, inflicts 'Punishee' on the attacker. Enters Punishment mode next Scene.</Desc>
+    <Name>¡Deben Ser Castigados!</Name>
+    <Desc>Si el Personaje recibe daño,Infringe 'Castigado' en el atacante.Entra en el modo Castigador la siguiente Escena.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="805213">
-    <Name>Punishment!</Name>
+    <Name>¡Castigo!</Name>
     <Desc>
-      In Punishment mode, the number of Speed dice increases to 5 for one Scene, and uses a special Combat Page against the character that attacked him last.
-      Also, all Stagger damage resistances change to "Fatal".
+      En el modo Castigador,el numero de daods de Velocidad incrementa a 5 por una Escena,y usa Páginas de Combate especiales contra el ultimo Personaje que lo ataco.
+      Ademasa todas las Resistencias al Aturdimiento cambian a 'Fatal'.
     </Desc>
   </PassiveDesc>
+    <!--Keeper of the Forest(Guardián del Bosque)-->
   <PassiveDesc ID="805221">
-    <Name>To Protect…</Name>
-    <Desc>When Roland is not in Punishment mode, gain Vigilance every 2 Scenes, and switch between attack and defense modes each Scene.</Desc>
+    <Name>Para Proteger…</Name>
+    <Desc>Cuando Roland no esta en modo Castigador,gana 'Vigilancia' Cada 2 Escenas,y cambia entre los modos ataque y defensa cada Escena.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="805222">
-    <Name>Chase Away…</Name>
-    <Desc>When Roland is in Punishment mode, enter attack mode for the Scene.</Desc>
+    <Name>Persecución……</Name>
+    <Desc>Cuand Roland esta en modo Castigador,entra en el modo ataque por la Escena.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="805223">
-    <Name>Forest Keeper</Name>
-    <Desc>Prioritizes targeting Staggered characters. Speed is fixed at specific values each Scene. Offensive dice gain +2 Power against targets with slower Speed.</Desc>
+       <Name>Guardián del Bosque</Name>
+    <Desc>Prioriza Atacar a Personajes Aturdidos. Los dados Ofensivos de este Personaje ganan +2 de Poder contra personajes con Velocidad mas baja.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="805224">
-    <Name>Roost</Name>
-    <Desc>HP does not go below 1. When HP drops to 1, go into a dormant state, and awaken in 3 Scenes with full HP and Stagger Resist.</Desc>
+    <Name>Dormitar</Name>
+    <Desc>El HP no cae por debajo de 1. Cuando el HP cae a1,entra en un estado durmiente y despierta en Escenas con el HP y Resistencia al Aturdimiento restaurados</Desc>
   </PassiveDesc>
 
-  <!-- 긴새 -->
+<!--Ave del Juicio(Judgement Bird-->
   <PassiveDesc ID="805311">
-    <Name>Tattered Bandages</Name>
-    <Desc>Takes no damage from Bleed, Burn, or Fairy.</Desc>
+    <Name>Vendajes Desgastados</Name>
+    <Desc>No recibe daño de 'Sangrado','Quemadura' o 'Feerico'.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="805312">
-    <Name>Mark of Sin</Name>
-    <Desc>At the start of the battle, gain 10 Marks of Sin. On hit, transfer a stack of Mark of Sin to the target. All dice gain Power equal to the amount of Marks of Sin the target has.</Desc>
+    <Name>Marca del Pecado</Name>
+    <Desc>Al comienzo de la batalla,gana 10 Marcas del Pecado.Al golpear,transfiere Marcas del pecado al objetivo.Todos los dados ganan Poder igual a la cantidad de Marcas del Pecado que el objetivo tenga.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="805313">
-    <Name>Unjust Scale</Name>
-    <Desc>Starting with Scene 1, all characters gain 1 Mark of Sin at the start of each Scene.</Desc>
+   <Name>Balanza Injusta</Name>
+    <Desc>Desde la primera Escena, todos los Personajes ganan 1 Marca del Pecado,al comienzo de cada Escena.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="805314">
-    <Name>Judgement</Name>
-    <Desc>If a character has 5 or more Marks of Sin at the start of the Scene, uses a special Combat Page: ‘Judgement’, on them.</Desc>
+    <Name>Juicio</Name>
+   <Desc>Si un Personaje tiene 5  más Marcas del Pecado al comienzo de la Escena, Usa la página de Combate especial ‘Juicio’ en ellos.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="805315">
-    <Name>Ceaseless Judgement</Name>
-    <Desc>If three or more characters have 3+ Marks of Sin at the start of the Scene, uses a Mass attack page: ‘Ceaseless Judgement’.</Desc>
+    <Name>Juicio Incesante</Name>
+    <Desc>Si tres o más personajes tienen 3+ Marcas del Pecado al comienzo de la Escena,usa una página de Combate de Ataque en Masa:‘Juicio Incesante’.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="805316">
-    <Name>Overflowing Misdeeds</Name>
-    <Desc>After using 'Judgement' or 'Ceaseless Judgement', lose 25% of Max. Stagger Resist.</Desc>
+    <Name>Fechorias Desbordantes</Name>
+    <Desc>Luego de usar 'Juicio' o'Juicio Incesante',Pierde 25% de su Resistencia al Aturdimiento maxima.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="805321">
-    <Name>Piercing Shriek</Name>
-    <Desc>After taking an attack, uses the Combat Page 'Piercing Shriek' next Scene.</Desc>
+    <Name>Chillido Perforante</Name>
+    <Desc>Luego de Recibir un ataque usa la Página de Combate 'Chillido Perforante' la siguiente Escena.</Desc>
   </PassiveDesc>
 
   <!-- 종말새 -->
   <PassiveDesc ID="805511">
-    <Name>The Monster in the Black Forest</Name>
-    <Desc>Uses 3 out of 8 possible patterns over 3 Scenes.</Desc>
+    <Name>El Mounstruo en el Bosque Oscuro</Name>
+    <Desc>Usa 3 de 8 patrones posibles por 3 Escemas.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="805512">
-    <Name>The Three Birds</Name>
+    <Name>Las Tres Aves</Name>
     <Desc>
-      Every two Scenes, switch the active egg effect for Apocalypse Bird.
-      The Apocalypse Bird's eggs cycle in the following order: Big Eyes -&gt; Small Beak -&gt; Long Arms -&gt; (Repeat).
-      Roland's resistances change depending on the currently active egg effect.
+      Cada 2 Escenas,cambia el efecto del huevo activo para El Ave del Apocalipsis                   .
+      Los huevos de El Ave del Apocalipsis ciclan en el siguiente orden:Grandes Ojos -&gt; Pequeño Pico -&gt; Largos Brazos -&gt;(Repite).
+      Las resistencias de Roland cambian segun el huevo activo.
     </Desc>
   </PassiveDesc>
   <PassiveDesc ID="805521">
-    <Name>Cracking Eggs</Name>
-    <Desc>If Staggered while the Apocalypse Bird's egg effect is active, the character will lose HP, and the currently active egg effect will be permanently expired.
-At the start of the next Scene, recover from Stagger, purge all status ailments, and gain 2 Strength and Endurance.
+    <Name>Huevos Agrietados</Name>
+    <Desc>Si es Aturdido mientras el efecto de un huevo del El Ave del Apocalipsis esta activo,El Personaje perdera HP,y el huevo activo sera permanentemente expirado.
+Al comienzo de la siguiente Escena,se recupera de Aturdimiento,purga todas las dolencias,y gana 2 de Fuerza y Resistencia.
     </Desc>
   </PassiveDesc>
   <PassiveDesc ID="805513">
-    <Name>Eternal Peace</Name>
-    <Desc>HP does not go below 75%.</Desc>
+    <Name>Paz Eterna</Name>
+    <Desc>HP no baja de 75%.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="805514">
-    <Name>Eternal Tranquility</Name>
-    <Desc>HP does not go below 50%.</Desc>
+    <Name>Tranquilidad Eterna</Name>
+    <Desc>HP no baja de 50%.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="805515">
-    <Name>Eternal Silence</Name>
-    <Desc>HP does not go below 25%.</Desc>
+    <Name>Silencio Eterno</Name>
+    <Desc>HP no baja de 25%.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="805516">
-    <Name>Big Bird’s Recollection</Name>
-    <Desc>Uses designated Combat Pages. This pattern will not be used once Big Eyes' effect expires.</Desc>
+    <Name>Memoria del Gran Ave</Name>
+    <Desc>Usa las Paginas de Combate designadas.Este patron no sera usado cuando los efectos de'Grandes Ojos' expiren.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="805517">
-    <Name>Judgement Bird’s Remembrance</Name>
-    <Desc>Uses designated Combat Pages. This pattern will not be used once Long Arms' effect expires.</Desc>
+    <Name>Reminicencia del Ave del Juicio</Name>
+    <Desc>Usa las Paginas de Combate designadas.Este patron no sera usado cuando los efectos de'Largos Brazos' expiren.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="805518">
-    <Name>Punishing Bird’s Recalling</Name>
-    <Desc>Uses designated Combat Pages. This pattern will not be used once Small Beak's effect expires.</Desc>
+    <Name>Recuerdo del Ave Castigadora</Name>
+    <Desc>Usa las Paginas de Combate designadas.Este patron no sera usado cuando los efectos de'Pequeño Pico' expiren.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="805519">
-    <Name>Apocalypse Bird</Name>
-    <Desc>Uses designated Combat Pages.</Desc>
+    <Name>Ave del Apocalipsis</Name>
+    <Desc>Usa las Paginas de Combate designadas.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="805520">
-    <Name>Apocalypse Bird</Name>
-    <Desc>Uses designated Combat Pages.</Desc>
+    <Name>Ave del Apocalipsis</Name>
+    <Desc>Usa las Paginas de Combate designadas.</Desc>
   </PassiveDesc>
-
-
-
-  <!-- 백야-->
+  <!-- Realizacion del piso de Religion-->
   <PassiveDesc ID="9055111">
-    <Name>Prophet</Name>
-    <Desc>Untargetable. HP and Stagger Resist do not fall below 1. Prevents Burn, Bleed, or Erosion. </Desc>
+    <Name>Profeta</Name>
+    <Desc>No se le puede atacar.Su HP y Resistencia al aturdimiento no bajan de 1.Previene Quemadura, Sangrado y Corrosión.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="9055112">
-    <Name>Place Your Trust in Me</Name>
-    <Desc>At the start of the Scene, uses the Combat Page 'Baptism' for the number of dead Apostles.</Desc>
+    <Name>Pon Tu Confianza en Mi</Name>
+    <Desc>Al comienzo de la Escena, usa la Página de Combate 'Bautismo' por cada Apostol muerto.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="9055113">
-    <Name>From the End of the World</Name>
-    <Desc>Proceeds to the next phase after 12 Apostles have been defeated.</Desc>
+    <Name>En el Final de los Tiempos</Name>
+    <Desc>Avanza a la siguiente fase luego de que 12 Apostoles sean derrotados.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="9055121">
-    <Name>The time has come.</Name>
-    <Desc>Prevents Burn, Bleed, or Erosion. Uses the Combat Page 'Rise and Serve Me' on the first Scene. Starting with the third Scene, uses the Combat Page 'I am thy Saviour' every 3 Scenes.</Desc> <!-- Waiting for confirmation from Yumi on this one -->
+    <Name>La hora ha llegado.</Name>
+    <Desc>Previene Quemadura, Sangrado y Corrosión.Usa la Pagina de Combate 'Alcen y Sirvanme' en la primera Escena.Desde la tercera Escena,usa la Página de Combate 'Yo soy vuestro salvador' cada 3 Escenas.</Desc> <!-- Waiting for confirmation from Yumi on this one -->
   </PassiveDesc>
   <PassiveDesc ID="9055122">
-    <Name>Rise, my servants. Rise and serve me.</Name>
-    <Desc>Summons 2 Guardian Apostles on the second Scene.</Desc>
+    <Name>Alcen, Mis sirvientes.Alcen y sirvanme.</Name>
+    <Desc>Invoca 2 Apostoles Guardianes en la 2da Escena.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="9055131">
-    <Name>Why art thou in fear?</Name>
-    <Desc>All librarians are Staggered on the first Scene. Uses the Combat Page 'Do Not Deny Me'.</Desc>
+    <Name>¿Por que me Temeis?</Name>
+    <Desc>Todos los bibliotecarios son Aturdidos en la primera Escena.Usa la Página de Combate 'No me Nieguen'.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="9055132">
-    <Name>I am with thee.</Name>
-    <Desc>Summons 2 Guardian Apostles on the second Scene. Apply '???' to the Patron Librarian.</Desc>
+    <Name>Estoy con Vosotros.</Name>
+    <Desc>Invoca 2 Apostoles Guardianes en la 2da Escena.Aplica '???' al Bibliotecario en Jefe.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="9055133">
     <Name>???</Name>
-    <Desc>Remove all Combat Pages from the Patron Librarian, and give him special Combat Pages.</Desc>
+    <Desc>Remueve todas lasinas de Combate del Bibliotecario en Jefe, y adquiere Páginas de Combate especiales.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="905500">
-    <Name>Undying</Name>
-    <Desc>HP does not fall below 1.</Desc>
+    <Name>Eterno</Name>
+    <Desc> Su HP no cae por debajo de 1.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="905501">
-    <Name>Suspended</Name>
-    <Desc>Becomes indefinitely Staggered if HP falls to 2 or lower. Can only recover from Stagger when Paradise Lost uses a Combat Page that 'resurrects' the Apostle.</Desc>
+    <Name>Suspendido</Name>
+    <Desc>Es Aturdido indefinidamente cuando su HP cae a 2 o menos. Solo puede recuperarse cuando Paraiso Perdido usa la Página de combate'Resureccion'en el Apostol.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="905502">
-    <Name>I will Follow Thee</Name>
-    <Desc>Offensive dice gain +2 Power against librarians afflicted with 'Revelation'.</Desc>
+    <Name>Lo Seguire a Usted</Name>
+    <Desc>Los dados ofensivos ganan 2 de Poder contra Bibliotecarios con 'Revelación'.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="905521">
     <Name>Guardian</Name>
-    <Desc>At the start of the Scene, give 5 Protection and Stagger Protection to Paradise Lost.
-If this character is Suspended, Angela's resistances will change to "Fatal" next Scene; the character will not give her Protection or Stagger Protection until it recovers from the Suspended state.</Desc>
+    <Desc>Al comienzo de la Escena,otorga 5 de Proteccion y de Proteccion contra el aturdimiento a Paraiso Perdido.
+Si este Personaje es suspendido, Las Resistencias de Angela cambian a "Fatal" la siguiente Escena; El personaje no le dara ninguna Protección hasta que se recupere de su estado suspendido.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="905522">
-    <Name>I Shall Preserve Thee</Name>
-    <Desc>Prioritizes targeting librarians that attacked Paradise Lost in the previous Scene.</Desc>
+    <Name>Lo Preservare a Usted</Name>
+    <Desc>Prioriza atacar a los Bibliotecarios que atacaron a Paraiso Perdido la anterior Escena.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="905523">
-    <Name>The Reborn</Name>
-    <Desc>Has the same resistances as the Key page of a certain librarian.</Desc>
+    <Name>El Renacido</Name>
+    <Desc>Tiene las mismas resistencias que la Pagina Clave de algun Bibliotecario.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="905531">
-    <Name>Scythe Apostle</Name>
-    <Desc>Prioritizes targeting the librarian with the lowest HP.</Desc>
+    <Name>Apostol de la Hoz</Name>
+    <Desc>Prioriza atacar al Bibliotecario con el menor HP.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="905551">
-    <Name>Spear Apostle</Name>
-    <Desc>Prioritizes targeting librarians with status ailments.</Desc>
+    <Name>Apostol de la Lanza</Name>
+    <Desc>Prioriza atacar Bibliotecarios con efectos de Estado.</Desc>
   </PassiveDesc>
 
   <!-- 케테르 완전개방-->
   <!-- 플레이어블 앤젤라 -->
   <PassiveDesc ID="1005011">
-    <Name>Facing the Past</Name>
-    <Desc>The battle is lost if this character is defeated.</Desc>
+    <Name>Encarando el Pasado</Name>
+    <Desc>La batalla es perdida si este personaje es derrotado.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1005012">
     <Name>Angela</Name>
-    <Desc>Has a unique Key page and Combat Pages that cannot be replaced or swapped. Cannot attribute passive abilities.</Desc>
+    <Desc>Tiene una Página Clave unica que no puede ser cambiada ni modificada. No se le puede atribuir habilidades pasivas.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1005013">
-    <Name>Director of her Role’s Namesake</Name>
-    <Desc>Draw 2 additional pages at the start of the Act. At the start of the Scene, restore 1 Light and draw 1 page.</Desc>
+    <Name>Directora de su Mismo Nombre</Name>
+    <Desc>Saca 2 Páginas adicionales al cpmienzo del Acto. Al comienzo de la Escena Saca 1 pagina y recupera 1 Luz.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1005014">
-    <Name>The Seed of Light</Name>
-    <Desc>The Emotions of all allies build up twice as fast.</Desc>
+    <Name>La Semilla de la Luz</Name>
+    <Desc>Las emociones de todos los aliados aumentan el doble.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1005015">
     <Name>???</Name>
-    <Desc>Gain E.G.O pages whenever the battle progresses to the next phase. After using 9 unique E.G.O pages, gain a special E.G.O page.</Desc>
+    <Desc>Gana Páginas de E.G.O cada vez que la batalla progresa a la siguiente fase. Luego de usar 9 paginas de E.G.O,gana una pagina de E.G.O especial .</Desc>
   </PassiveDesc>
 
 
@@ -1284,18 +1276,18 @@ If this character is Suspended, Angela's resistances will change to "Fatal" next
     <Desc>At the start of each Scene, exhaust all pages in hand and deck; add new pages to hand. Their Cost becomes 0.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1005112">
-    <Name>Scars</Name>
-    <Desc>Take 1-5 less damage from Slash attacks.</Desc>
+    <Name>Cicatrices</Name>
+    <Desc>Recibe 1-5 menos daño de ataques cortantes.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1005113">
-    <Name>Blood</Name>
-    <Desc>Block Dice Power +3</Desc>
+    <Name>Sangre</Name>
+    <Desc>Poder de dados defensivos +3</Desc>
   </PassiveDesc>
 
   <!-- heart -->
   <PassiveDesc ID="1005211">
-    <Name>Palpitating</Name>
-    <Desc>At the start of each Scene, exhaust all pages in hand and deck; add new pages to hand. Their Cost becomes 0.</Desc>
+    <Name>Palpitante</Name>
+    <Desc>Al comienzo de cada Escena, exhaust all pages in hand and deck; add new pages to hand. Their Cost becomes 0.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1005212">
     <Name>Pulsating Motion</Name>
@@ -1330,151 +1322,151 @@ If this character is Suspended, Angela's resistances will change to "Fatal" next
     <Desc>Copies the Patron Librarian's deck. At the start of each Scene, exhaust all pages in hand and deck; add new pages to hand. Their Cost becomes 0. (Ignores 'A Song of Lies')</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1005312">
-    <Name>Liar</Name>
+    <Name>Mentirosa</Name>
     <Desc>Starting with the third Scene: every 3 Scenes, inflicts 10 Bind to self and uses 1~2 pages that contain false information (referred to as "Lies").</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1005313">
-    <Name>Caught Long-nosed</Name>
-    <Desc>When a page containing a Lie clashes against 'Lying is Bad!', all dice on the page lose 8 Power.</Desc>
+    <Name>Atrapada por la Nariz</Name>
+    <Desc>Cuando una página que contiene una mentira choca contra '¡Mentir es malo!',Todos los dados pierden 3 de Poder.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1005314">
-    <Name>Joyous Fible-fable</Name>
-    <Desc>When a page containing a Lie does not clash against 'Lying is Bad!', all dice on the page gain 8 Power.</Desc>
+    <Name>Sinsentido Jubiloso</Name>
+    <Desc>Cuando una página que contiene una mentira NO choca contra '¡Mentir es malo!',todos los dados en esa página pierden 8 de Poder.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1005315">
-    <Name>Why is it Bad?</Name>
-    <Desc>After the Lie has been sniffed out, all allies are inflicted with 4 Feeble and Disarm next Scene and all Stagger damage resistances change to "Fatal" for the next Scene.</Desc>
+    <Name>¿Por que es malo?</Name>
+    <Desc>Luego de que la mentira sea descubierta,todos los aliados son infringidos con 4 de Debilidad y Desarme la siguiente Escena y todas las resistencias al aturdimiento cambian a 'fatal' por la siguiente Escena.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1005316">
     <Name>Lalala~</Name>
-    <Desc>If the Lie isn't busted, all allies gain 4 Strength and Endurance next Scene.</Desc>
+    <Desc>Si la mentira no es descubierta ,todos los aliados ganan 4 de Fuerza y Resistencia.</Desc>
   </PassiveDesc>
 
   <!-- 피노키오 잡-->
   <PassiveDesc ID="1005321">
-    <Name>A Song of Lies</Name>
-    <Desc>Copies the first Assistant Librarian's deck.
-While this character is alive, randomize the Costs of all Combat Pages whose original Cost is 3 or less in all characters' hands at the start of each Scene.</Desc>
+    <Name>Una Canción de Mentiras</Name>
+    <Desc>Copia el mazo del 1er Bibliotecario.
+Mientras este Personaje siga vivo,aleatoriza el costo de las páginas en la mano de todos los Personajes cuyo costo original sea de 3 o menos al comienzo de cada Escena.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1005322">
-    <Name>A Song in Backward</Name>
-    <Desc>Copies the second Assistant Librarian's deck.
-While this character is alive, all allies also copy the status effects of the librarians they copied decks from.</Desc>
+    <Name>Una Canción al Reves</Name>
+    <Desc>Copia el mazo del 2do Bibliotecario.
+Mientras este Personaje siga vivo,todos los aliados copian los efectos de estado de los Bibliotecarios a los que copiaron sus mazos.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1005323">
-    <Name>A Song for All</Name>
-    <Desc>Copies the third Assistant Librarian's deck.
-While this character is alive, all allies gain 2 Strength or 2 Endurance at the start of each Scene.</Desc>
+    <Name>Una Canción para todos</Name>
+    <Desc>Copia el mazo del 3er Bibliotecario.
+Mientras este Personaje siga vivo,todos los aliados ganan 4 de Fuerza y Resistencia al comienzo de la Escena.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1005324">
-    <Name>A Song of Curiosity</Name>
-    <Desc>Copies the fourth Assistant Librarian's deck.
-While this character is alive, all librarians shuffle their hand into the draw pile and draw 3 pages at the start of each Scene.</Desc>
+    <Name>Una Canción de Curiosidad</Name>
+    <Desc>Copia el mazo del 4to Bibliotecario.
+Mientras este Personaje siga vivo,todos los Bibliotecarios barajan su manos a su mazo y sacan 3 páginas al comienzo de cada Escena.</Desc>
   </PassiveDesc>
 
 
   <!-- 눈의 여왕 -->
   <PassiveDesc ID="1005411">
-    <Name>Biting Wind</Name>
-    <Desc>At the start of the Scene, all librarians lose HP equal to 5% of their Max HP.</Desc>
+    <Name>Viento Cortante</Name>
+    <Desc>Al comienzo de la Escena, Todos los Bibliotecarios Pierden HP igual al 5% de su HP maxima..</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1005412">
-    <Name>Reticent Frigidity</Name>
-    <Desc>Takes no damage from attacks until all Prisons of Ice are destroyed. Takes no damage from Burn or Bleed.</Desc>
+    <Name>Frialdad Reticente</Name>
+    <Desc>No recibe daño de ataques hasta que todas las Prisiones de Hielo sean destruidas.No recibe daño de Quemadura o Sangrado.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1005413">
     <Name>Frost Column</Name>
-    <Desc>Gains Speed dice and Light capacity based on the number of destroyed Prisons of Ice. If two or more Prisons have been destroyed, a melee Combat Page is added to this character's deck.</Desc>
+    <Desc>Gana dados de Velocidad y capacidad de Luz segun la cantidad de Prisiones de hielo destruidas.Si 2 o más prisiones han sido destruidas,Una página de Ataque cuerpo a cuerpo es añadida al mazo de este Personaje.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1005414">
-    <Name>Those who know the Cruelty of Winter and the Aroma of Roses</Name>
-    <Desc>After all Prisons of Ice have been destroyed, all librarians recover 50% of their Max HP at the start of the next Scene. The Snow Queen will use a Mass Attack page the same Scene.</Desc>
+    <Name>Aquellos que Conocen la Crueldad del Invierno y el Aroma de las Rosas</Name>
+     <Desc>Luego de que todas las prisiones de hielo sean destruidas,Todos los Bibliotecarios recuperan 50% de su HP maximo.La reina de hielo usara una página de Ataque Masivo esa misma Escena.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1005415">
-    <Name>Coldhearted</Name>
-    <Desc>Immune to Immobilization.</Desc>
+    <Name>Corazon Frio</Name>
+    <Desc>Inmune a Inmovilización.</Desc>
   </PassiveDesc>
 
   <!-- 눈의 여왕 : 얼음 -->
   <PassiveDesc ID="1005421">
-    <Name>Kai and Gerda</Name>
-    <Desc>If this character's HP drops to 0, an imprisoned librarian is freed next Scene.</Desc>
+    <Name>Kai y Gerda</Name>
+    <Desc>Si el HP de este personaje baja a 0, Un Bibliotecario aprisionado es liberado la siguiente Escena.</Desc>
   </PassiveDesc>
 
 
   <!-- 아무 말 없는 소녀 -->
   <PassiveDesc ID="1005512">
-    <Name>Shimmering</Name>
-    <Desc>At the start of each Scene, exhaust all pages in hand and deck; add new pages to hand. Their Cost becomes 0.</Desc>
+    <Name>Reluciente</Name>
+     <Desc>Al comienzo de cada Escena, agota todas las Paginas de la mano y del mazo; añade nuevas Paginas a la mano. Su Costo se convierte en 0.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1005511">
     <Name>…</Name>
-    <Desc>The battle proceeds to the next phase when both the Nail and the Hammer are defeated.</Desc>
+    <Desc>La batalla avanza a la siguiente fase cuando tanto el Martillo como el Clavo sean derrotados.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1005513">
-    <Name>Status Immunity</Name>
-    <Desc>Takes no damage from status ailments.</Desc>
+    <Name>Inmunidad a Estados</Name>
+    <Desc>No recibe daño de dolecias de estado.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1005514">
-    <Name>Grin</Name>
-    <Desc>Immune to Immobilization.</Desc>
+    <Name>Mueca</Name>
+    <Desc>Inmune a la Inmovilización.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1005515">
     <Name>Leer</Name>
-    <Desc>When hit, reduce incoming damage by the Cost of 'Guilt' the attacker has.</Desc>
+    <Desc>Cuando es golpeado,reduce el daño segun el costo de 'Culpa' que tenga el atacante.</Desc>
   </PassiveDesc>
 
 
 
   <!-- 아무 말 없는 소녀 : 못 손 -->
   <PassiveDesc ID="1005521">
-    <Name>Nail</Name>
-    <Desc>Fully restores Light every Scene.</Desc>
+    <Name>Clavo</Name>
+    <Desc>Restaura completamente su luz al comienzo de cada Escena.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1005522">
-    <Name>Guilt</Name>
-    <Desc>Dice gain Power by the page's Cost.</Desc>
+    <Name>Culpa</Name>
+    <Desc>Sus dados gana Poder segun el coste de la página.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1005523">
-    <Name>A Gap in the Mind</Name>
-    <Desc>On hit, a page with the highest Cost in the target's hand is inflicted with 'Cost Down'.</Desc>
+    <Name>Una Vacio en la Mente</Name>
+    <Desc>Al golpear,una página en la mano del objetivo es infringido con'Menor Coste'.</Desc>
   </PassiveDesc>
 
   <!-- 아무 말 없는 소녀 : 망치 손 -->
   <PassiveDesc ID="1005531">
-    <Name>Hammer</Name>
-    <Desc>Fully restores Light on odd-numbered Scenes.</Desc>
+    <Name>Martillo</Name>
+    <Desc>Restaura completamente su luz en Escenas impares.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1005532">
-    <Name>A Crack in the Mind</Name>
-    <Desc>On hit, a page with the highest Cost in the target's hand is inflicted with 'Cost Up'.</Desc>
+    <Name>Una Grieta en la Mente</Name>
+    <Desc>Al golpear,una página en la mano del objetivo es infringido con'Mayor Coste'.</Desc>
   </PassiveDesc>
 
   <!-- 아무 말 없는 소녀 : 검은 손 - 공격 -->
   <PassiveDesc ID="1005541">
-    <Name>Shimmering</Name>
-    <Desc>At the start of each Scene, exhaust all pages in hand and deck; add new pages to hand. Their Cost becomes 0.</Desc>
+     <Name>Reluciente</Name>
+     <Desc>Al comienzo de cada Escena, agota todas las Paginas de la mano y del mazo; añade nuevas Paginas a la mano. Su Costo se convierte en 0.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1005542">
-    <Name>Blossoming Desires</Name>
-    <Desc>When hit, gain +10 Power for all dice next Scene.</Desc>
+    <Name>Deseos Florecientes</Name>
+    <Desc>Al ser golpeada,gana +10 de Poder a todos los dados la siguiente Escena.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1005543">
-    <Name>Black Feathers</Name>
-    <Desc>Takes half as much damage from status ailments.</Desc>
+    <Name>Plumas Negras</Name>
+    <Desc>Recibe la mitad de daño de dolencias de estado.</Desc>
   </PassiveDesc>
 
   <!-- 아무 말 없는 소녀 : 검은 손 - 반격 -->
   <PassiveDesc ID="1005551">
-    <Name>Shimmering</Name>
-    <Desc>At the start of each Scene, exhaust all pages in hand and deck; add new pages to hand. Their Cost becomes 0.</Desc>
+    <Name>Reluciente</Name>
+     <Desc>Al comienzo de cada Escena, agota todas las Paginas de la mano y del mazo; añade nuevas Paginas a la mano. Su Costo se convierte en 0.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1005552">
-    <Name>Crushing Instincts</Name>
-    <Desc>Dice gain Power equal to the current Cost of 'Guilt' the target has (If target has no Guilt, no Power is gained)</Desc>
+    <Name>Instintos Aplastantes</Name>
+    <Desc>Sus dados ganan Poder equivalente al coste de 'Culpa' del objetivo (Si el objetivo no tiene 'Culpa',no gana Poder)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="1005553">
-    <Name>Black Feathers</Name>
-    <Desc>Takes half as much damage from status ailments.</Desc>
+    <Name>Plumas Negras</Name>
+      <Desc>Recibe la mitad de daño de dolencias de estado.</Desc>
   </PassiveDesc>
 </PassiveDescRoot>
