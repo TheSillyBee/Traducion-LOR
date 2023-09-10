@@ -5537,7 +5537,7 @@
         </Dialog>
         <Dialog ID="27" Model="앤젤라">
           <Teller>Angela</Teller>
-          <Title>Directora de la Biblioteca<Title>
+          <Title>Directora de la Biblioteca</Title>
           <VoiceFile>ch6_Index_ep2_Angela_31</VoiceFile>
           <Content>Aun asi, no podremos verlo si no es nuestro invitado.</Content>
         </Dialog>
@@ -5972,7 +5972,7 @@
         </Dialog>
         <Dialog ID="69" Model="춘">
           <Teller>Chun</Teller>
-          <Title>Fixer del Liu S. Sección 1</S. Title>
+          <Title>Fixer del Liu S. Sección 1</Title>
           <VoiceFile>ch6_Liu_Sec1_ep1_Chun_18-04</VoiceFile>
           <Content>Cómo puede decirlo con tanto orgullo, ma’am? El Director Lowell lo hizo, y ahora tú también…</Content>
         </Dialog>
