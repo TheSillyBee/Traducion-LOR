@@ -80,7 +80,7 @@
     <Name>Miedo</Name>
     <Desc>Todos los dados pierden 4 de Poder cuando el Personaje tiene efectos de estado.</Desc>
   </PassiveDesc>
-   <!-- El robot que ayuda con todo ese(todos-around helper)-->
+   <!-- El robot que ayuda con todo ese(all-around helper)-->
   <PassiveDesc ID="202011">
     <Name>Reconocimiento Repetitivo de Patrones</Name>
     <Desc>Restaura 1 de Luz al inflingir 10 de daño o más en una sola Escena.</Desc>
@@ -103,7 +103,7 @@
    <!-- El niño de la Galaxia(Child of the Galaxy)-->
   <PassiveDesc ID="402011">
     <Name>Guijarro</Name>
-    <Desc>restaura 20% HP al comienzo de la Escena.No se activa si el HP actual es 1.</Desc>
+    <Desc>Restaura 20% HP al comienzo de la Escena.No se activa si el HP actual es 1.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="402012">
     <Name>No me dejes</Name>
@@ -182,7 +182,7 @@
   <PassiveDesc ID="501011">
     <Name>Cambio Adverso</Name>
     <Desc>Cuando el medidor de Histeria es llenado, Se transforma. El medidor de Histeria aumenta al perder choques o Al ser atacada por enemigos marcados, y disminuye al ganar choques o atacando personajes parcados. La pantalla se tinta de rosa a medida que el medidor de Histeria es llenado.
-Al final de la Escena,Restaura toda la luz y saca 2 páginas.</Desc>
+Al final de la Escena,Restaura toda la luz y Roba 2 páginas.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="501012">
     <Name>En Nombre del Odio</Name>
@@ -428,7 +428,7 @@ Al final de la Escena,Restaura toda la luz y saca 2 páginas.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="304013">
     <Name>Estar Sola es Triste</Name>
-    <Desc>Si todos los aliados han muertos,Todas las resistencias cambian a 'Fatal'.</Desc>
+  <Desc>Si todos los aliados han muertos,Todas las resistencias cambian a 'Fatal'.</Desc>
   </PassiveDesc>
   <!--Gift-wraped Friend(Amigo envuelto en regalos)-->
   <PassiveDesc ID="304021">
@@ -746,15 +746,15 @@ Luego de Atacar al Sirviente de la Ira en la siguiente Escena, Usa una página d
   <PassiveDesc ID="604013">
     <Name>Banquete de Sangre</Name>
     <Desc>Si el Personaje tiene 5 o más Sangre,usa una página de Ataque en Masa: 'Banquete de Sangre'.(Tiene un enfriamiento de 3 Escenas.)
-If the character did not use the page for the first 4 Scenes of the battle, it will be used on the 5th Scene.</Desc>
+Si el Personaje no uso la pagina durante las primeras 4 Escenas del combate,esta sera usada en la 5ta Escena</Desc>
   </PassiveDesc>
   <PassiveDesc ID="604014">
     <Name>Cambiaforma</Name>
     <Desc>Si el HP cae a 50% o más, Cambia de forma la siguiente Escena.El HP no baja del 50% antes de esto.</Desc>
   </PassiveDesc>
   <PassiveDesc ID="604031">
-    <Name>Mieado al Agua</Name>
-    <Desc>ISi el Personaje tiene menos de 5 Sangre, Gana Fuerza proporcional a la sangre faltante.(Hasta 3)</Desc>
+    <Name>Miedo al Agua</Name>
+    <Desc>Si el Personaje tiene menos de 5 Sangre, Gana Fuerza proporcional a la sangre faltante.(Hasta 3)</Desc>
   </PassiveDesc>
   <PassiveDesc ID="604032">
     <Name>Sangre Fluyendo</Name>
