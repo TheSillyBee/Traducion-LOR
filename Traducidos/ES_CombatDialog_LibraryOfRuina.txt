@@ -223,7 +223,7 @@
       <BattleDialog ID="START_BATTLE_9">¡No los dejaremos pasar tan fácilmente!</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">Era obvio que ganaríamos. ¿Pensaste que no podríamos con tanto?</BattleDialogé
+      <BattleDialog ID="BATTLE_VICTORY_0">Era obvio que ganaríamos. ¿Pensaste que no podríamos con tanto?</BattleDialog>
       <BattleDialog ID="BATTLE_VICTORY_1">Muy bien, se que están todos exhaustos, ¡pero! Vamos a acostarnos después de que hayamos acomodado los libros en orden.</BattleDialog>
       <BattleDialog ID="BATTLE_VICTORY_2">Gracias, todos. Hicieron un buen trabajo esta vez.</BattleDialog>
       <BattleDialog ID="BATTLE_VICTORY_3">Ya ven, las acciones dicen más que las palabras.</BattleDialog>
