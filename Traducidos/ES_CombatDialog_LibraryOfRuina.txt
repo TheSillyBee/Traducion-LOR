@@ -254,7 +254,7 @@
       <BattleDialog ID="START_BATTLE_0">¿Todos listos? Vamos a apalear a esos sujetos hasta su sumisión.</BattleDialog>
       <BattleDialog ID="START_BATTLE_1">La cosa más importante de recordar es sentir el ritmo del oponente y mantenerte a la par de este.</BattleDialog>
       <BattleDialog ID="START_BATTLE_2">No tengo ni de cerca tanta fuerza como antes… Todavía no puedo acostumbrarme a ello.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_3">Sólo patanes de poca voluntad corren antes de que las cosas siquiera empiecen.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">Sólo sinvergüenzas de voluntad débil corren antes de que las cosas siquiera empiecen.</BattleDialog>
       <BattleDialog ID="START_BATTLE_4">No deberías dejar que tu fuerza se te suba a la cabeza. Te dejarás plenamente abierto.</BattleDialog>
       <BattleDialog ID="START_BATTLE_5">Levántense. Somos moldeados por las dificultades y la disciplina del pasado.</BattleDialog>
       <BattleDialog ID="START_BATTLE_6">Vamos a trabajar juntos y darle nuestro mejor esfuerzo.</BattleDialog>
