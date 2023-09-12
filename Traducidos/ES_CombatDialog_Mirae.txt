@@ -3,63 +3,63 @@
   <GroupName>Mirae</GroupName>
   <Character ID="Named">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">Things got complicated. Shall we start unraveling them?</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">Strange things have been happening these days… It’s such a hassle.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">Let’s see here… Won’t there be any problems?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">Las cosas se complicaron. ¿Deberíamos de empezar a desenredarlas?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Cosas extrañas han estado pasando estos días… Es una molestia.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">Vamos a ver… ¿No habrá ningún problema?</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">That was enough intel. Shall we head back?</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_1">Oh dear… I don’t think you’ll meet the conditions, unfortunately.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">Esa fue suficiente intel. ¿Deberíamos regresar?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Oh cielos… No creo que hayan cumplido las condiciones, desafortunadamente.</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">This is it for me, huh…</BattleDialog>
+      <BattleDialog ID="DEATH_0">Esto es todo para mí, huh…</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH">
-      <BattleDialog ID="COLLEAGUE_DEATH_0">This is a particularly troublesome case we’ve gotten into…</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_1">It’s okay for now. Keep your focus.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_2">I’ve got to save myself first and foremost.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_0">Este es un caso particularmente complicado en el que nos hemos metido…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Está bien por ahora. Mantengan su concentración.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">Tengo que protegerme antes que nada.</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">Sorry~ It’s just how our work goes all the time.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1">I can collect some other types of info as well… This isn’t so bad.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_2">Haha. I may have gotten old, but I’m not a goner yet…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">Perdón~ Así es como nuestro trabajo va todo el tiempo.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Puedo recolectar otros tipos de info también… Esto no está tan mal.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">Jaja. Puede que haya envejecido, pero todavía no estoy acabada…</BattleDialog>
     </Type>
   </Character>
 
   <Character ID="Mirae">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">This took a bothersome turn…</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">Our work tends to be the same…</BattleDialog>
-      <BattleDialog ID="START_BATTLE_2">I suppose there won’t be any big problems?</BattleDialog>
-      <BattleDialog ID="START_BATTLE_3">Irina, ma’am? I think we ought to be careful.</BattleDialog>
-      <BattleDialog ID="START_BATTLE_4">That’s right… I heard it was recently exalted to a Star of the City.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">Esto tomó un giro molesto…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">Nuestro trabajo suele ser lo mismo…</BattleDialog>
+      <BattleDialog ID="START_BATTLE_2">¿Supongo que no habrá ningún gran problema?</BattleDialog>
+      <BattleDialog ID="START_BATTLE_3">¿Irina, señora? Creo que debemos de ser cuidadosos.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_4">Es cierto… Escuché que recientemente fue exaltada a una Estrella de la Ciudad.</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY">
-      <BattleDialog ID="BATTLE_VICTORY_0">I’ve recorded everything that needs to be. Time to return.</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_1">This was one bizarre place… I wonder if it’s a Singularity or something?</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_2">We’ve been getting lots of nutty cases lately…</BattleDialog>
-      <BattleDialog ID="BATTLE_VICTORY_3">At least that’s one case done.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_0">He grabado todo lo que lo ameritaba. Hora de regresar.</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_1">Este fue un lugar bizarro… ¿Me pregunto si es una Singularidad o algo?</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_2">Hemos estado recibiendo un montón de casos locos recientemente…</BattleDialog>
+      <BattleDialog ID="BATTLE_VICTORY_3">Por lo menos ese es un caso concluido.</BattleDialog>
     </Type>
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">What… is the purpose of this place? I don’t…</BattleDialog>
-      <BattleDialog ID="DEATH_1">Always thought I was… ready to go through this…</BattleDialog>
-      <BattleDialog ID="DEATH_2">I warned you that this request might pose too much…</BattleDialog>
-      <BattleDialog ID="DEATH_3">Sod it… Take care of yourselves…</BattleDialog>
-      <BattleDialog ID="DEATH_4">I’m sick of this business…</BattleDialog>
+      <BattleDialog ID="DEATH_0">¿Cuál… es el propósito de este lugar? No lo…</BattleDialog>
+      <BattleDialog ID="DEATH_1">Siempre pensé que estaba… listo para pasar por esto…</BattleDialog>
+      <BattleDialog ID="DEATH_2">Les advertí que esta petición podría ser demasiado…</BattleDialog>
+      <BattleDialog ID="DEATH_3">A la mierda… Cuídense ustedes mismos…</BattleDialog>
+      <BattleDialog ID="DEATH_4">Estoy harto de este negocio…</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH">
-      <BattleDialog ID="COLLEAGUE_DEATH_0">…We definitely needed backup.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_1">I guess our client wasn’t lying after all.</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_2">…This is rather serious, isn’t it?</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_3">Maybe we should go back for now and reorganize…</BattleDialog>
-      <BattleDialog ID="COLLEAGUE_DEATH_4">I don’t think we’ll resolve this on our own.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_0">…Definitivamente necesitábamos refuerzos.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_1">Supongo que nuestro cliente no mentía después de todo.</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_2">…Esto es bastante serio, ¿no?</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_3">Tal vez deberíamos volver por ahora y reorganizarnos…</BattleDialog>
+      <BattleDialog ID="COLLEAGUE_DEATH_4">No creo que vayamos a resolver esto por nuestra cuenta.</BattleDialog>
     </Type>
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">Let’s tidy up the rest posthaste.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_1">It seems we’re almost done.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_2">I can’t say it was a pushover.</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_3">There’s much to note about this…</BattleDialog>
-      <BattleDialog ID="KILLS_OPPONENT_3">Wavering even for a second is going to be a death sentence.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">Vamos a limpiar al resto cuanto antes.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_1">Parece que casi acabamos.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_2">No puedo decir que fuera un debilucho.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Hay mucho de lo que tomar nota sobra esto…</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_3">Dudar incluso por un segundo será una sentencia de muerte.</BattleDialog>
     </Type>
   </Character>
   
